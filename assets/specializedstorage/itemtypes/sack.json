@@ -11,37 +11,37 @@
             "*-argiculture": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             },
             "*-engineer": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             },
             "*-hunter": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             },
             "*-mason": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             },
             "*-pottery": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             },
             "*-woodsman": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
-					"*-sturdy": 15
+					"*-sturdy": 16
 				}
             }
         }
