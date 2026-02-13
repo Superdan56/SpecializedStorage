@@ -1,42 +1,153 @@
 {
     "code": "strongbox",
-    "variantgroups": [
-		{"code": "content", "states": ["basic", "cook", "engineer", "firewood", "mason", "mining", "nautical", "pottery"]}
-	],
-    "maxstacksize": 1,
-    "storageFlag": 2,
+    "class": "BlockGenericTypedContainer",
+	"entityclass": "GenericTypedContainer",
+    "maxstacksize": 32,
     "attributes": {
-        "backpackByType": {
-            "*-basic": {
-                "quantitySlots": 3
+        "inventoryClassName": "depository",
+        "types": ["agriculture", "basic", "engineer", "mason", "mining", "nautical", "pottery"],
+		"properties": {
+            "basic": {
+                "quantitySlots": 32,
+                "storageFlags": 32,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             },
-            "*-cook": {
-                "quantitySlots": 6
+            "agriculture": {
+                "quantitySlots": 32,
+                "storageFlags": 32768,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             },
-            "*-farmer": {
-                "quantitySlots": 6
+            "engineer": {
+                "quantitySlots": 32,
+                "storageFlags": 16384,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             },
-            "*-forager": {
-                "quantitySlots": 6
+            "mason": {
+                "quantitySlots": 32,
+                "storageFlags": 131072,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             },
-            "*-hunter": {
-                "quantitySlots": 6
+            "nautical": {
+                "quantitySlots": 32,
+                "storageFlags": 4,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             },
-            "*-mason": {
-                "quantitySlots": 6
-            },
-            "*-mining": {
-
-            },
-            "*-nautical": {
-
-            },
-            "*-pottery": {
-                "quantitySlots": 6
+            "pottery": {
+                "quantitySlots": 32,
+                "storageFlags": 65536,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }
             }
         }
-
     },
+    "behaviors": [
+		{ 
+            "name": "Lockable" 
+        }, 
+		{ 
+            "name": "Container"
+        }, 
+		{ 
+            "name": "BoatableGenericTypedContainer" 
+        }
+	],
+    "combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 35
+	},
+    "blockmaterial": "wood",
+    "materialDensity": 600,
+	"replaceable": 900,
+	"resistance": 2,
+	"lightAbsorption": 0,
+	"sideAo": { 
+        "all": false 
+    },
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	},
+	"collisionBoxes": [
+		{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 1, "z2": 0.0625 },
+		{ "x1": 0, "y1": 0, "z1": 0.9375, "x2": 1, "y2": 1, "z2": 1 },
+		{ "x1": 0, "y1": 0, "z1": 0.0625, "x2": 0.0625, "y2": 1, "z2": 0.9375 },
+		{ "x1": 0.9375, "y1": 0, "z1": 0.0625, "x2": 1, "y2": 1, "z2": 0.9375 }
+	],
+	"selectionBoxes": [
+		{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 1, "z2": 0.95 },
+		{ "x1": 0.25, "y1": 0.28125, "z1": 0.95, "x2": 0.75, "y2": 0.875, "z2": 1 }
+	],
+    "heldTpIdleAnimation": "holdunderarm",
+    "tpHandTransform": {
+		"translation": { "x": -0.9, "y": -0.5, "z": -0.3 },
+		"rotation": { "x": 0, "y": 90, "z": -102 },
+		"scale": 0.56
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
+		"scale": 1.16
+	},
+	"sounds": {
+		"place": "block/planks",
+		"hit": "block/planks",
+		"break": "block/planks",
+		"walk": "walk/wood"
+	},
     "creativeinventory": {
             "general": ["*"], 
             "items": ["*"]
