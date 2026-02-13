@@ -2,64 +2,94 @@
     "code": "sack",
     "variantgroups": [
 		{"code": "content", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
-		{"code": "size", "states": ["simple", "sturdy"]}
+		{"code": "size", "states": ["basic", "sturdy"]}
 	],
     "maxstacksize": 1,
     "storageFlag": 2,
     "attributes": {
         "backpackByType": {
-            "*-argiculture": {
+            "*-argiculture-*": {
                 "storageFlags": 32,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-engineer": {
+            "*-engineer-*": {
                 "storageFlags": 16384,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-hunter": {
+            "*-hunter-*": {
                 "storageFlags": 34096,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-mason": {
+            "*-mason-*": {
                 "storageFlags": 131072,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-mining": {
+            "*-mining-*": {
                 "storageFlags": 4,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-pottery": {
+            "*-pottery-*": {
                 "storageFlags": 65536,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             },
-            "*-woodsman": {
+            "*-woodsman-*": {
                 "storageFlags": 2048,
                 "quantitySlotsByType": {
-					"*-simple": 12,
+					"*-basic": 12,
 					"*-sturdy": 16
 				}
             }
         }
-
     },
+    "shapeByType": {
+        "*-base": {"base": "item/bag/linensack"},
+        "*-sturdy": {"base": "item/bag/miningbagsturdy"}
+    },
+    "textures": {
+		"linen": { "base": "item/sack/sack-{content}-linen"},
+		"top": { "base": "item/sack/sack-{content}-top"} 
+	},
+    "guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -25, "y": 23, "z": 180 },
+		"origin": { "x": 0.5299, "y": 0.26, "z": 0.5 },
+		"scale": 2.45,
+		"rotate": true
+	},
+	"fpHandTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0.2 },
+		"rotation": { "x": 47, "y": -80, "z": 33 },
+		"scale": 1.61
+	},
+	"tpHandTransform": {
+		"translation": { "x": -0.7, "y": -0.5, "z": -0.6 },
+		"rotation": { "x": -4, "y": 47, "z": -17 },
+		"scale": 0.81
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 180, "y": 33, "z": -180 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 2.0
+	},
     "creativeinventory": {
             "general": ["*"], 
             "items": ["*"]
