@@ -16,18 +16,21 @@
 				}
             },
             "*-engineer": {
+                "storageFlags": 16384,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
 				}
             },
             "*-hunter": {
+                "storageFlags": 34096,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
 				}
             },
             "*-mason": {
+                "storageFlags": 131072,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
@@ -41,12 +44,14 @@
 				}
             },
             "*-pottery": {
+                "storageFlags": 65536,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
 				}
             },
             "*-woodsman": {
+                "storageFlags": 2048,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16

@@ -1,7 +1,7 @@
 {
     "code": "pouch",
     "variantgroups": [
-		{"code": "content", "states": ["basic", "cook", "farmer", "forager", "hunter", "mason", "pottery"]}
+		{"code": "content", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
 	],
     "maxstacksize": 1,
     "storageFlag": 2,
@@ -10,22 +10,28 @@
             "*-basic": {
                 "quantitySlots": 3
             },
-            "*-cook": {
+            "*-agriculture": {
+                "storageFlags": 32,
                 "quantitySlots": 6
             },
-            "*-farmer": {
+            "*-cook": {
+                "storageFlags": 32768,
                 "quantitySlots": 6
             },
             "*-forager": {
+                "storageFlags": 32,
                 "quantitySlots": 6
             },
             "*-hunter": {
+                "storageFlags": 34096,
                 "quantitySlots": 6
             },
             "*-mason": {
+                "storageFlags": 131072,
                 "quantitySlots": 6
             },
             "*-pottery": {
+                "storageFlags": 65536,
                 "quantitySlots": 6
             }
         }

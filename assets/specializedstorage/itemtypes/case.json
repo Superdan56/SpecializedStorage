@@ -8,52 +8,48 @@
     "attributes": {
         "backpackByType": {
             "*-agriculture": {
-                "storageFlags": 32,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 32
             },
             "*-cook": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 32768
             },
             "*-engineer": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 16384
             },
             "*-firewood": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 524288
             },
             "*-forager": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 8192
             },
             "*-hunter": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 4096
             },
             "*-mason": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 131072
             },
             "*-mining": {
-                "storageFlags": 4,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 4
             },
             "*-nautical": {
-                "storageFlags": 0,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 262144                
             },
             "*-pottery": {
-                "storageFlags": 1,
-                "quantitySlots": 20
-            },
-            "*-traveler": {
-                "storageFlags": 1,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 65536
             },
             "*-woodsman": {
-                "storageFlags": 2048,
-                "quantitySlots": 20
+                "quantitySlots": 20,
+                "storageFlags": 2048
             }
         }
     },

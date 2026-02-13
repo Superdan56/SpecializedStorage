@@ -1,0 +1,11 @@
+{
+    "code": "woodsmansatchel",
+    "maxstacksize": 1,
+    "storageFlag": 2,
+    "attributes": {
+        "backpack": {
+            "quantitySlots": 6,
+            "storageFlags": 2048
+        }    
+    }
+}
