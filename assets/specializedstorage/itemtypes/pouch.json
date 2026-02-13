@@ -11,28 +11,29 @@
                 "quantitySlots": 3
             },
             "*-agriculture": {
-                "storageFlags": 32,
-                "quantitySlots": 6
+                
+                "storageFlags": 32
+                
             },
             "*-cook": {
-                "storageFlags": 32768,
-                "quantitySlots": 6
+                "quantitySlots": 6,
+                "storageFlags": 32768
             },
             "*-forager": {
-                "storageFlags": 32,
-                "quantitySlots": 6
+                "quantitySlots": 6,
+                "storageFlags": 32
             },
             "*-hunter": {
-                "storageFlags": 34096,
-                "quantitySlots": 6
+                "quantitySlots": 6,
+                "storageFlags": 34096
             },
             "*-mason": {
-                "storageFlags": 131072,
-                "quantitySlots": 6
+                "quantitySlots": 6,
+                "storageFlags": 131072
             },
             "*-pottery": {
-                "storageFlags": 65536,
-                "quantitySlots": 6
+                "quantitySlots": 6,
+                "storageFlags": 65536
             }
         }
 
