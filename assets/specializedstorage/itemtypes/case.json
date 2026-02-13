@@ -1,0 +1,56 @@
+{
+    "code": "case",
+    "variantgroups": [
+		{"code": "content", "states": ["agriculture", "cook", "engineer", "firewood", "farmer", "forager", "hunter", "mason", "mining", "nautical", "pottery", "traveler", "woodsman"]}
+	],
+    "maxstacksize": 1,
+    "storageFlag": 2,
+    "attributes": {
+        "backpackByType": {
+            "*-agriculture": {
+                "quantitySlots": 20
+            },
+            "*-cook": {
+                "quantitySlots": 20
+            },
+            "*-engineer": {
+                "quantitySlots": 20
+            },
+            "*-firewood": {
+                "quantitySlots": 20
+            },
+            "*-farmer": {
+                "quantitySlots": 20
+            },
+            "*-forager": {
+                "quantitySlots": 20
+            },
+            "*-hunter": {
+                "quantitySlots": 20
+            },
+            "*-mason": {
+                "quantitySlots": 20
+            },
+            "*-mining": {
+                "quantitySlots": 20
+            },
+            "*-nautical": {
+                "quantitySlots": 20
+            },
+            "*-pottery": {
+                "quantitySlots": 20
+            },
+            "*-traveler": {
+                "quantitySlots": 20
+            },
+            "*-woodsman": {
+                "quantitySlots": 20
+            }
+        }
+    },
+    "creativeinventory": {
+            "general": ["*"], 
+            "items": ["*"]
+    }
+
+}

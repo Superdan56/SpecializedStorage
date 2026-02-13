@@ -1,17 +1,48 @@
 {
     "code": "sack",
     "variantgroups": [
-		{"code": "content", "states": ["argiculture", "forestry", "mining"]},
+		{"code": "content", "states": ["argiculture", "engineering", "hunter", "mason", "pottery", "woodsman"]},
 		{"code": "size", "states": ["simple", "sturdy"]}
 	],
     "maxstacksize": 1,
     "storageFlag": 2,
     "attributes": {
         "backpackByType": {
-            
-            "*-agriculture": {
-
-                "quantitySlots": 12
+            "*-argiculture": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
+            },
+            "*-engineer": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
+            },
+            "*-hunter": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
+            },
+            "*-mason": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
+            },
+            "*-pottery": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
+            },
+            "*-woodsman": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 15
+				}
             }
         }
 
