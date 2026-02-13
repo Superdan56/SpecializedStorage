@@ -1,7 +1,7 @@
 {
     "code": "case",
     "variantgroups": [
-		{"code": "type", "states": ["agriculture", "cook", "engineer", "firewood", "forager", "hunter", "mason", "mining", "nautical", "pottery", "traveler", "woodsman"]}
+		{"code": "type", "states": ["agriculture", "cook", "engineer", "firewood", "forager", "hunter", "mason", "mining", "nautical", "pottery", "woodsman"]}
 	],
     "maxstacksize": 1,
     "storageFlag": 2,
