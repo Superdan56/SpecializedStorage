@@ -11,7 +11,7 @@
                 "quantitySlots": 3
             },
             "*-agriculture": {
-                
+                "quantitySlots": 6,
                 "storageFlags": 32
                 
             },
