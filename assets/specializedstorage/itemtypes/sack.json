@@ -1,7 +1,7 @@
 {
     "code": "sack",
     "variantgroups": [
-		{"code": "content", "states": ["argiculture", "engineering", "hunter", "mason", "pottery", "woodsman"]},
+		{"code": "content", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
 		{"code": "size", "states": ["simple", "sturdy"]}
 	],
     "maxstacksize": 1,
@@ -27,6 +27,12 @@
 				}
             },
             "*-mason": {
+                "quantitySlotsByType": {
+					"*-simple": 12,
+					"*-sturdy": 16
+				}
+            },
+            "*-mining": {
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
