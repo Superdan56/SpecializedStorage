@@ -4,50 +4,50 @@
 		{"code": "content", "states": ["basic", "agriculture", "cook", "engineer", "firewood", "farmer", "forager", "hunter", "mason", "mining", "nautical", "pottery", "traveler", "woodsman"]}
 	],
     "maxstacksize": 1,
-    "storageFlag": 2,
+    "storageFlag": 0,
     "attributes": {
         "backpackByType": {
             "*-basic": {
-                "quantitySlots": 3
+                
             },
             "*-agriculture": {
-                "quantitySlots": 6
+                
             },
             "*-cook": {
-                "quantitySlots": 6
+                
             },
             "*-engineer": {
-                "quantitySlots": 6
+                
             },
             "*-firewood": {
-                "quantitySlots": 6
+                
             },
             "*-farmer": {
-                "quantitySlots": 6
+                
             },
             "*-forager": {
-                "quantitySlots": 6
+                
             },
             "*-hunter": {
-                "quantitySlots": 6
+                
             },
             "*-mason": {
-                "quantitySlots": 6
+                
             },
             "*-mining": {
-                "quantitySlots": 6
+                
             },
             "*-nautical": {
-                "quantitySlots": 6
+                
             },
             "*-pottery": {
-                "quantitySlots": 6
+                
             },
             "*-traveler": {
-                "quantitySlots": 6
+                
             },
             "*-woodsman": {
-                "quantitySlots": 6
+                
             }
         }
     },
