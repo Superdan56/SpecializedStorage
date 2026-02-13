@@ -6,7 +6,7 @@
     "item-case-engineer": "Engineering Traveling Case",
     "itemdesc-case-engineer": "Can only hold mechanical items.",   
     "item-case-firewood": "Firekeeping Traveling Case",
-    "itemdesc-case-firewood": "Can only hold firewood items.",   
+    "itemdesc-case-firewood": "Can only hold firewood and charcoal.",   
     "item-case-forager": "Exploration Traveling Case",
     "itemdesc-case-forager": "Can only hold foragable items.",   
     "item-case-hunter": "Huntsman Traveling Case",
@@ -45,5 +45,15 @@
     "item-depository-woodsman": "Forestry Traveling Case",
     "itemdesc-depository-woodsman": "Can only hold forestry items.",
 
-    "item-firewoodsatchel": ""
+    "item-firewoodsatchel": "Firewood Satchel",
+    "itemdesc-firewoodsatchel": "Can only hold firewood and charcoal.",
+
+    "item-pouch-basic": "Pelt Pouch",
+    "item-pouch-agriculture": "Farmer's Pouch",
+    "itemdesc-pouch-agriculture": "Can only hold agriculture items.",
+    "item-pouch-cook": "Cooking Pouch",
+    "itemdesc-pouch-cook": "Can only hold cooking items.",
+    
+
+
 }
