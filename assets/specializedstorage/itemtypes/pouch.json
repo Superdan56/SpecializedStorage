@@ -60,8 +60,8 @@
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
 		"rotation": { "x": -25, "y": 23, "z": 180 },
-		"origin": { "x": 0.5299, "y": 0.26, "z": 0.5 },
-		"scale": 2.45,
+		"origin": { "x": 0.5299, "y": 0.23, "z": 0.5 },
+		"scale": 2.3,
 		"rotate": true
 	},
 	"fpHandTransform": {
