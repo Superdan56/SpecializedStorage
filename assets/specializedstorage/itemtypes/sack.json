@@ -1,7 +1,7 @@
 {
     "code": "sack",
     "variantgroups": [
-		{"code": "content", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
+		{"code": "type", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
 		{"code": "size", "states": ["basic", "sturdy"]}
 	],
     "maxstacksize": 1,
@@ -59,13 +59,25 @@
             }
         }
     },
+	"behavoirs": [
+        {
+            "name": "GroundStorable", 
+            "properties": { 
+                "layout": "SingleCenter", 
+                "collisionBox": {"x1": 0.25, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 0.375, "z2": 0.75}
+            }
+        },
+		{
+            "name": "HeldBag" 
+        }
+    ],
     "shapeByType": {
         "*-base": {"base": "item/bag/linensack"},
         "*-sturdy": {"base": "item/bag/miningbagsturdy"}
     },
     "textures": {
-		"linen": { "base": "item/sack/sack-{content}-linen"},
-		"top": { "base": "item/sack/sack-{content}-top"} 
+		"linen": { "base": "item/sack/sack-{type}-linen"},
+		"top": { "base": "item/sack/sack-{type}-top"} 
 	},
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },

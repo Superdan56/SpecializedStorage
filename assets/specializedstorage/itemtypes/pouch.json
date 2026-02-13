@@ -1,7 +1,7 @@
 {
     "code": "pouch",
     "variantgroups": [
-		{"code": "content", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
+		{"code": "type", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
 	],
     "maxstacksize": 1,
     "storageFlag": 2,
@@ -43,7 +43,7 @@
             "name": "GroundStorable", 
             "properties": { 
                 "layout": "SingleCenter", 
-                "collisionBox": {"x1": 0.25, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 0.375, "z2": 0.75}
+                "collisionBox": {"x1": 0.20, "y1": 0, "z1": 0.20, "x2": 0.70, "y2": 0.350, "z2": 0.70}
             }
         },
 		{
@@ -54,8 +54,8 @@
         "base": "item/bag/linensack"
     },
     "textures": {
-        "linen": { "base": "item/pouch/pouch-{content}-linen"},
-		"top": { "base": "item/pouch/pouch-{content}-top"} 
+        "linen": { "base": "item/pouch/pouch-{type}-linen"},
+		"top": { "base": "item/pouch/pouch-{type}-top"} 
     },
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
