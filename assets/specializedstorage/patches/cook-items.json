@@ -1,0 +1,7 @@
+[
+  { "file": "game:itemtypes/food/flour.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32768
+  }
+]

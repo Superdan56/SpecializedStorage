@@ -9,6 +9,7 @@
     "attributes": {
         "backpackByType": {
             "*-argiculture": {
+                "storageFlags": 32,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16
@@ -33,6 +34,7 @@
 				}
             },
             "*-mining": {
+                "storageFlags": 4,
                 "quantitySlotsByType": {
 					"*-simple": 12,
 					"*-sturdy": 16

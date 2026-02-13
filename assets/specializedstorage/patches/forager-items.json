@@ -1,0 +1,12 @@
+[
+  { "file": "game:blocktypes/plant/mushroom.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 8192
+  },
+  { "file": "game:itemtypes/food/berry.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8192 
+  }
+]

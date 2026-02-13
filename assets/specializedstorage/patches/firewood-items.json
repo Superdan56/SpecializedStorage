@@ -1,0 +1,7 @@
+[
+  { "file": "game:itemtypes/resource/firewood.json",
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 524288
+  }
+]
