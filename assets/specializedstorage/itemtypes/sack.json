@@ -1,0 +1,24 @@
+{
+    "code": "sack",
+    "variantgroups": [
+		{"code": "content", "states": ["argiculture", "forestry", "mining"]},
+		{"code": "size", "states": ["simple", "sturdy"]}
+	],
+    "maxstacksize": 1,
+    "storageFlag": 2,
+    "attributes": {
+        "backpackByType": {
+            
+            "*-agriculture": {
+
+                "quantitySlots": 12
+            }
+        }
+
+    },
+    "creativeinventory": {
+            "general": ["*"], 
+            "items": ["*"]
+    }
+
+}

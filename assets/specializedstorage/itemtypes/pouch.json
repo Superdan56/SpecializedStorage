@@ -1,0 +1,15 @@
+{
+    "code": "pouch",
+    "maxstacksize": 1,
+    "storageFlag": 2,
+    "attributes": {
+        "backpack": {
+            "quantitySlots": 3
+            }
+    },
+    "creativeinventory": {
+            "general": ["*"], 
+            "items": ["*"]
+    }
+
+}
