@@ -21,10 +21,12 @@
         }
     ],
     "Shape": { 
-        "base": {"base": "block/basic/cube"}
+        "base": {"base": "block/wood/logquad-corner"}
     },
     "Textures": {
-
+        "bark": "block/wood/bark/quad/debarked/aged",
+		"barkup": "block/wood/bark/quad/debarked/aged",
+		"ends": "block/wood/treetrunk/quad/aged"
     },
     "guiTransform": {
 		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
@@ -43,7 +45,7 @@
 		"translation": { "x": 0, "y": 0, "z": 0 },
 		"rotation": { "x": 0, "y": 0, "z": 0 },
 		"origin": { "x": 0, "y": 0, "z": 0 },
-		"scale": 0.5
+		"scale": 0.75
 	},
     "creativeinventory": {
             "general": ["*"], 
