@@ -7,5 +7,46 @@
             "quantitySlots": 6,
             "storageFlags": 2048
         }    
+    },
+    "behavoirs": [
+        {
+            "name": "GroundStorable", 
+            "properties": { 
+                "layout": "SingleCenter", 
+                "collisionBox": { "x1": 0.75, "y1": 0.75, "z1": 0.75, "x2": 0.75, "y2": 0.75, "z2": 0.75 }
+            }
+        },
+		{
+            "name": "HeldBag" 
+        }
+    ],
+    "Shape": { 
+        "base": {"base": "block/basic/cube"}
+    },
+    "Textures": {
+
+    },
+    "guiTransform": {
+		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
+		"scale": 1.16
+	},
+	"tpHandTransform": {
+		"translation": { "x": -0.8, "y": -0.68, "z": -0.41 },
+		"rotation": { "x": 99, "y": -10, "z": -6 },
+		"scale": 0.5
+	},
+	"fpHandTransform": {
+		"translation": { "x": 0.08, "y": -0.2, "z": 0.6 },
+		"rotation": { "x": 33, "y": 134, "z": -102 }
+	},
+    "groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0, "y": 0, "z": 0 },
+		"scale": 0.5
+	},
+    "creativeinventory": {
+            "general": ["*"], 
+            "items": ["*"]
     }
 }

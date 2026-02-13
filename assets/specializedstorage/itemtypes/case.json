@@ -58,7 +58,7 @@
             "name": "GroundStorable", 
             "properties": { 
                 "layout": "SingleCenter", 
-                "collisionBox": [{ "x1": 0.125, "y1": 0, "z1": 0.1875, "x2": 0.875, "y2": 0.4875, "z2": 0.75 }]
+                "collisionBox": { "x1": 0.125, "y1": 0, "z1": 0.1875, "x2": 0.875, "y2": 0.4875, "z2": 0.75 }
             }
         },
 		{
