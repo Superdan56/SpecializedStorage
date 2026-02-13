@@ -1,6 +1,6 @@
 [
     {
-        "name": "pouch",
+        "name": "pouch-basic",
         "width": 1,
         "height": 2,
         "ingredientPattern": "R,P",
@@ -18,12 +18,12 @@
         },
         "output": {
             "type": "item",
-            "code": "pouch",
+            "code": "pouch-basic",
             "quantity": 1
         }
     },
     {
-        "name": "pouch",
+        "name": "pouch-basic",
         "width": 1,
         "height": 2,
         "ingredientPattern": "R,P",
@@ -41,7 +41,7 @@
         },
         "output": {
             "type": "item",
-            "code": "pouch",
+            "code": "pouch-basic",
             "quantity": 1
         }
     },
@@ -64,7 +64,7 @@
         },
         "output": {
             "type": "item",
-            "code": "pouch",
+            "code": "pouch-basic",
             "quantity": 1
         }
     }

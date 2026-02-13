@@ -1,11 +1,35 @@
 {
     "code": "pouch",
+    "variantgroups": [
+		{"code": "content", "states": ["basic", "cook", "farmer", "forager", "hunter", "mason", "pottery"]}
+	],
     "maxstacksize": 1,
     "storageFlag": 2,
     "attributes": {
-        "backpack": {
-            "quantitySlots": 3
+        "backpackByType": {
+            "*-basic": {
+                "quantitySlots": 3
+            },
+            "*-cook": {
+                "quantitySlots": 6
+            },
+            "*-farmer": {
+                "quantitySlots": 6
+            },
+            "*-forager": {
+                "quantitySlots": 6
+            },
+            "*-hunter": {
+                "quantitySlots": 6
+            },
+            "*-mason": {
+                "quantitySlots": 6
+            },
+            "*-pottery": {
+                "quantitySlots": 6
             }
+        }
+
     },
     "creativeinventory": {
             "general": ["*"], 
