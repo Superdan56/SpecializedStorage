@@ -9,7 +9,6 @@
 		"properties": {
             "basic": {
                 "quantitySlots": 32,
-                "storageFlags": 32,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
                 "drop": true,
@@ -23,7 +22,7 @@
             },
             "agriculture": {
                 "quantitySlots": 32,
-                "storageFlags": 32768,
+                "storageFlags": 32,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
                 "drop": true,
@@ -63,9 +62,23 @@
 		            "frame-generic": "block/wood/crate/frame-generic"
                 }
             },
-            "nautical": {
+            "mining": {
                 "quantitySlots": 32,
                 "storageFlags": 4,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }  
+            }, 
+            "nautical": {
+                "quantitySlots": 32,
+                "storageFlags": 262144,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
                 "drop": true,

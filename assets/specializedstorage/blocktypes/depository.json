@@ -8,7 +8,7 @@
         "types": ["agriculture", "cook", "engineer", "firewood", "forager", "hunter", "mason", "mining", "nautical", "pottery", "woodsman"],
 		"properties": {
             "agriculture": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 32,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -22,7 +22,7 @@
                 }
             },
             "cook": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 32768,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -36,7 +36,7 @@
                 }
             },
             "engineer": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 16384,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -50,7 +50,7 @@
                 }
             },
             "firewood": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 524288,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -64,7 +64,7 @@
                 }
             },
             "forager": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 8192,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -78,7 +78,7 @@
                 }
             },
             "hunter": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 4096,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -92,7 +92,7 @@
                 }
             },
             "mason": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 131072,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -105,9 +105,23 @@
 		            "frame-generic": "block/wood/crate/frame-generic"
                 }
             },
-            "nautical": {
-                "quantitySlots": 32,
+            "mining": {
+                "quantitySlots": 64,
                 "storageFlags": 4,
+                "rotatatableInterval": "22.5deg",
+                "storageType": 189,
+                "drop": true,
+                "retrieveOnly": false,
+                "dialogTitleLangCode": "chestcontents",
+                "shape": { "base": "block/wood/crate/aged-closed"},
+                "textures": {
+		            "sides": "block/metal/steel",
+		            "frame-generic": "block/wood/crate/frame-generic"
+                }  
+            }, 
+            "nautical": {
+                "quantitySlots": 64,
+                "storageFlags": 262144,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
                 "drop": true,
@@ -120,7 +134,7 @@
                 }
             },
             "woodsman": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 2048,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
@@ -134,7 +148,7 @@
                 }
             },
             "pottery": {
-                "quantitySlots": 32,
+                "quantitySlots": 64,
                 "storageFlags": 65536,
                 "rotatatableInterval": "22.5deg",
                 "storageType": 189,
