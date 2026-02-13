@@ -48,12 +48,15 @@
     "item-firewoodsatchel": "Firewood Satchel",
     "itemdesc-firewoodsatchel": "Can only hold firewood and charcoal.",
 
+    "item-firewoodstack": "Firewood Wood Rack",
+    "itemdesc-firewoodsatchel": "Can only hold firewood and charcoal."
+
     "item-pouch-basic": "Pelt Pouch",
     "item-pouch-agriculture": "Farmer's Pouch",
     "itemdesc-pouch-agriculture": "Can only hold agriculture items.",
     "item-pouch-cook": "Cooking Pouch",
     "itemdesc-pouch-cook": "Can only hold cooking items.",
-    
+
 
 
 }
