@@ -2,6 +2,6 @@
   { "file": "game:itemtypes/resource/clay.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 65536
+    "value": 65537
   }
 ]

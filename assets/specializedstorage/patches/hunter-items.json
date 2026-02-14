@@ -2,6 +2,6 @@
   { "file": "game:itemtypes/resource/leather.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 4096
+    "value": 4097
   }
 ]

@@ -59,7 +59,7 @@
             }
         }
     },
-	"behavoirs": [
+	"behaviors": [
         {
             "name": "GroundStorable", 
             "properties": { 

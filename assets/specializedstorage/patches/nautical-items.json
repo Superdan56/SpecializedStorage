@@ -2,6 +2,6 @@
   { "file": "game:blocktypes/aquatic/seashell.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 262144
+    "value": 262145
   }
 ]

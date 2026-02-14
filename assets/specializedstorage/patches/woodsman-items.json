@@ -2,6 +2,6 @@
   { "file": "game:blocktypes/wood/woodtype/log.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 2048
+    "value": 2049
   }
 ]
