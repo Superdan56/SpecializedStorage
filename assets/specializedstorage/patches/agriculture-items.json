@@ -1,0 +1,14 @@
+[
+    {
+        "file": "game:itemtypes/food/",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    { 
+        "file": "game:itemtypes/food/vegetable.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    }
+]

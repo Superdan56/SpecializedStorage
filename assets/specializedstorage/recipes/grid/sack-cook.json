@@ -1,0 +1,178 @@
+[
+    {
+        "name": "sack-cook-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "DTD,PLP",
+        "ingredients": {
+            "D": {
+                "name": "dough",
+                "type": "item", 
+				"code": "game:dough-*", 
+				"quantity": 1
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "block",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-cook-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-cook-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "ETE,PLP",
+        "ingredients": {
+            "E": {
+                "name": "egg",
+                "type": "item", 
+				"code": "game:egg-*", 
+				"quantity": 1
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "block",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-cook-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-cook-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "D_D,PBP",
+        "ingredients": {
+            "D": {
+                "name": "dough",
+                "type": "item", 
+				"code": "game:dough-*", 
+				"quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-cook-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-cook-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "E_E,PBP",
+        "ingredients": {
+            "D": {
+                "name": "egg",
+                "type": "item", 
+				"code": "game:egg-*", 
+				"quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-cook-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-cook-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "_C_,PBP,SSS",
+        "ingredients": {
+            "C": {
+                "name": "cheese",
+                "type": "block", 
+				"code": "game:cheese-*", 
+				"quantity": 1
+            },
+            "H": {
+                "type": "block",
+                "code": "game:hopper",
+                "quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "sack-engineer-basic",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "S": {
+                "name": "leather",
+                "type": "item",
+                "code": "game:leather-sturdy-*",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-cook-sturdy",
+            "quantity": 1
+        }
+    }
+]

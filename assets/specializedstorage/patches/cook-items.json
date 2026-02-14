@@ -1,8 +1,15 @@
 [
   { 
+    "file": "game:itemtypes/food/bread.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
     "file": "game:itemtypes/food/flour.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 32769
   }
+  
 ]

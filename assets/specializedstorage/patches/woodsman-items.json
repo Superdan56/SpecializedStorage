@@ -4,5 +4,17 @@
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 2049 
+  },
+  { 
+    "file": "game:itemtypes/resource/stick.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
   }
 ]

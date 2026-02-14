@@ -102,37 +102,55 @@
     "value": 8193
   },
   { 
-    "file": "game:blocktypes/plant/bigbarrybush.json",
+    "file": "game:blocktypes/plant/bigberrybush.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:",
+    "file": "game:blocktypes/plant/smallberrybush.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:",
+    "file": "game:blocktypes/plant/fern.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:",
+    "file": "game:blocktypes/plant/flower.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:",
+    "file": "game:blocktypes/plant/hay.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:",
+    "file": "game:blocktypes/plant/herb.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/rafflesia.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/silvertorchcactus.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/wildvine.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193

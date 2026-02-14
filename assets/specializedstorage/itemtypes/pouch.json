@@ -3,7 +3,7 @@
     "maxstacksize": 1,
     "storageFlags": 2,
     "variantgroups": [
-		{"code": "type", "states": ["basic", "agriculture", "cook", "forager", "hunter", "nautical", "mason", "pottery"]}
+		{"code": "type", "states": ["basic", "agriculture", "forager", "hunter", "nautical", "mason", "pottery"]}
 	],
     "attributes": {
         "backpackByType": {
@@ -13,10 +13,6 @@
             "*-agriculture": {
                 "quantitySlots": 6,
                 "storageFlags": 32
-            },
-            "*-cook": {
-                "quantitySlots": 6,
-                "storageFlags": 32768
             },
             "*-forager": {
                 "quantitySlots": 6,
