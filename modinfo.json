@@ -3,9 +3,9 @@
     "modid": "specializedstorage",
     "name": "Specialized Storage",
     "authors": [ "TheDiceSnake" ],
-    "description": "A mod that adds a large number of specialized backpacks and chests to help keep bases organized and to make expoditions worth going on.",
+    "description": "A mod that adds a large number of specialized backpacks to expand on the mining bag.",
     "website": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"RequiredOnClient": true,
     "RequiredOnServer": true,
     "dependencies": {
