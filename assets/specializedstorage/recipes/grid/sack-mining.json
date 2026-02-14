@@ -1,0 +1,108 @@
+[
+    {
+        "name": "sack-mining-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "GTG,PLP",
+        "ingredients": {
+            "G": {
+                "type": "item", 
+				"code": "game:ore-*",
+                "allowedVariants": ["quartz", "olivine"],
+				"quantity": 4
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mining-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-mining-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "G_G,PBP",
+        "ingredients": {
+            "Q": {
+                "type": "item", 
+				"code": "game:ore-*",
+                "allowedVariants": ["quartz", "olivine"],
+				"quantity": 4
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mining-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-mining-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "GIG,PBP,LLL",
+        "ingredients": {
+            "G": {
+                "type": "item",
+                "code": "game:ore-*",
+                "allowedVariants": ["alum", "anthracite", "borax", "corundum", "cinnabar", "lapislazuli", "sulfur", "emerald", "peridot", "diamond"],
+                "quantity": 4
+            },
+            "I": {
+                "type": "item", 
+				"code": "game:ingot-*",
+                "allowedVariants": ["gold","silver","electrum","silversolder","chromium","platinum","titanium"], 
+				"quantity": 2
+            },
+            "B": {
+                "type": "item",
+                "code": "game:sack-mining-basic",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "L": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mining-sturdy",
+            "quantity": 1
+        }
+    }
+]

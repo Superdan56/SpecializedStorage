@@ -1,0 +1,25 @@
+[
+    {
+        "name": "pouch-pottery",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "CCC,CPC,CCC",
+        "ingrediants": {
+            "C": {
+                "type": "item",
+                "code": "game:clay-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-pottery",
+            "quantity": 1
+        }
+    }
+]

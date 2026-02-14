@@ -1,0 +1,58 @@
+[
+    {
+        "name": "pouch-forager",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "GCG,CPC,GCS",
+        "ingrediants": {
+            "G": {
+                "type": "item",
+                "code": "game:drygrass",
+                "quantity": 1
+            },
+            "C": {
+                "type": "item",
+                "code": "game:cattailtops",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-forager",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "pouch-forager",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "GCG,CPC,GCS",
+        "ingrediants": {
+            "G": {
+                "type": "item",
+                "code": "game:drygrass",
+                "quantity": 1
+            },
+            "C": {
+                "type": "item",
+                "code": "game:papyrustops",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-forager",
+            "quantity": 1
+        }
+    }
+]

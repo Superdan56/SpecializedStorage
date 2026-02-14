@@ -1,0 +1,94 @@
+[
+    {
+        "name": "pouch-cook",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "_V_,VPV,_V_",
+        "ingrediants": {
+            "V": {
+                "type": "item",
+                "code": "game:vegetable-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-cook",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "pouch-cook",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "_G_,GPG,_G_",
+        "ingrediants": {
+            "G": {
+                "type": "item",
+                "code": "game:grain-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-cook",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "pouch-cook",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "_L_,LPL,_L_",
+        "ingrediants": {
+            "L": {
+                "type": "item",
+                "code": "game:legume-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-cook",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "pouch-cook",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "_B_,BPB,_B_",
+        "ingrediants": {
+            "B": {
+                "type": "item",
+                "code": "game:insect-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-cook",
+            "quantity": 1
+        }
+    }
+]

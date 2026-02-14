@@ -1,0 +1,100 @@
+[
+    {
+        "name": "sack-pottery-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "FTF,PLP",
+        "ingredients": {
+            "F": {
+                "type": "item", 
+				"code": "game:clay-fire",
+				"quantity": 2
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-pottery-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-pottery-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "F_F,PBP",
+        "ingredients": {
+            "F": {
+                "type": "item", 
+				"code": "game:clay-fire",
+				"quantity": 2
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-pottery-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-pottery-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "BBB,PSP,LLL",
+        "ingredients": {
+            "B": {
+                "type": "item",
+                "code": "game:burnedbrick",
+                "allowedVariants": ["brown","clinker"],
+                "quantity": 4
+            },
+            "S": {
+                "type": "item",
+                "code": "game:sack-pottery-basic",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "L": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-pottery-sturdy",
+            "quantity": 1
+        }
+    }
+]

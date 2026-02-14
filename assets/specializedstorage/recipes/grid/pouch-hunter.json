@@ -1,0 +1,25 @@
+[
+    {
+        "name": "pouch-hunter",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "B_B,_P_,B_B",
+        "ingrediants": {
+            "B": {
+                "type": "item",
+                "code": "game:bushmeat-raw",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-hunter",
+            "quantity": 1
+        }
+    }
+]

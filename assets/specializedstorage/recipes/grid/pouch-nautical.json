@@ -1,0 +1,25 @@
+[
+    {
+        "name": "pouch-nautical",
+        "width": 1,
+        "height": 2,
+        "ingredientPattern": "S,P",
+        "ingrediants": {
+            "S": {
+                "type": "block",
+                "code": "game:seashell",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-nautical",
+            "quantity": 1
+        }
+    }
+]
