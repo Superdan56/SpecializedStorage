@@ -1,11 +1,11 @@
 {
     "code": "sack",
+    "maxstacksize": 1,
+    "storageFlag": 2,
     "variantgroups": [
 		{"code": "type", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
 		{"code": "size", "states": ["basic", "sturdy"]}
 	],
-    "maxstacksize": 1,
-    "storageFlag": 2,
     "attributes": {
         "backpackByType": {
             "*-argiculture-*": {
@@ -15,7 +15,7 @@
 					"*-sturdy": 16
 				}
             },
-            "*-engineer-*": {
+            "*-engineering-*": {
                 "storageFlags": 16384,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -72,8 +72,8 @@
         }
     ],
     "shapeByType": {
-        "*-base": {"base": "item/bag/linensack"},
-        "*-sturdy": {"base": "item/bag/miningbagsturdy"}
+        "*-base": {"base": "game:item/bag/linensack"},
+        "*-sturdy": {"base": "game:item/bag/miningbagsturdy"}
     },
     "textures": {
 		"linen": { "base": "item/sack/sack-{type}-linen"},

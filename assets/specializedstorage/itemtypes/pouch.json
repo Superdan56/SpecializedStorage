@@ -1,10 +1,10 @@
 {
     "code": "pouch",
+    "maxstacksize": 1,
+    "storageFlag": 2,
     "variantgroups": [
 		{"code": "type", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
 	],
-    "maxstacksize": 1,
-    "storageFlag": 2,
     "attributes": {
         "backpackByType": {
             "*-basic": {
@@ -51,7 +51,7 @@
         }
     ],
     "shape": {
-        "base": "item/bag/linensack"
+        "base": "game:item/bag/linensack"
     },
     "textures": {
         "linen": { "base": "item/pouch/pouch-{type}-linen"},

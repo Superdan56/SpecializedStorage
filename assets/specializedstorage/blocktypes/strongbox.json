@@ -14,10 +14,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             },
             "agriculture": {
@@ -28,10 +28,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/chest/normal"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             },
             "engineer": {
@@ -44,8 +44,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             },
             "mason": {
@@ -58,8 +58,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             },
             "mining": {
@@ -72,8 +72,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }  
             }, 
             "nautical": {
@@ -86,8 +86,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             },
             "pottery": {
@@ -100,8 +100,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides2": "block/wood/trunk/sides",
+		            "lid": "block/wood/trunk/lid"
                 }
             }
         }

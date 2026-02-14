@@ -15,10 +15,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "cook": {
@@ -31,8 +31,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "engineer": {
@@ -43,10 +43,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "firewood": {
@@ -59,8 +59,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "forager": {
@@ -71,10 +71,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "hunter": {
@@ -85,10 +85,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "mason": {
@@ -99,10 +99,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "mining": {
@@ -112,11 +112,11 @@
                 "storageType": 189,
                 "drop": true,
                 "retrieveOnly": false,
-                "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "dialogTitleLangCode": "game:chestcontents",
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }  
             }, 
             "nautical": {
@@ -129,8 +129,8 @@
                 "dialogTitleLangCode": "chestcontents",
                 "shape": { "base": "block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "woodsman": {
@@ -141,10 +141,10 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
-		            "sides": "block/metal/steel",
-		            "frame-generic": "block/wood/crate/frame-generic"
+		            "sides": "game:block/metal/steel",
+		            "frame-generic": "game:block/wood/crate/frame-generic"
                 }
             },
             "pottery": {
@@ -155,7 +155,7 @@
                 "drop": true,
                 "retrieveOnly": false,
                 "dialogTitleLangCode": "chestcontents",
-                "shape": { "base": "block/wood/crate/aged-closed"},
+                "shape": { "base": "game:block/wood/crate/aged-closed"},
                 "textures": {
 		            "sides": "block/metal/steel",
 		            "frame-generic": "block/wood/crate/frame-generic"
