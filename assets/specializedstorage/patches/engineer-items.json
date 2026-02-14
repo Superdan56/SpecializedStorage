@@ -2,6 +2,6 @@
   { "file": "game:itemtypes/resource/resin",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 16384
+    "value": 16385
   }
 ]
