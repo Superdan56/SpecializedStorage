@@ -73,7 +73,7 @@
             "B": {
                 "name": "brick",
                 "type": "item",
-                "code": "game:burnedbrick",
+                "code": "game:burnedbrick-*",
                 "allowedVariants": ["brown","clinker"],
                 "quantity": 4
             },

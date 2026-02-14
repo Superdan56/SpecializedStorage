@@ -82,7 +82,7 @@
         "ingredients": {
             "A": {
                 "type": "block", 
-				"code": "game:archimedesscrew", 
+				"code": "game:archimedesscrew-*", 
 				"quantity": 1
             },
             "H": {
