@@ -72,12 +72,12 @@
         }
     ],
     "shapeByType": {
-        "*-basic": "game:item/bag/linensack",
-        "*-sturdy": "game:item/bag/miningbagsturdy"
+        "*-basic": {"base": "game:item/bag/linensack"},
+        "*-sturdy": {"base": "game:item/bag/miningbagsturdy"}
     },
     "textures": {
-		"linen": "item/sack/sack-{type}-linen",
-		"top": "item/sack/sack-{type}-top" 
+		"linen": {"base": "item/sack/sack-{type}-linen"},
+		"top": {"base": "item/sack/sack-{type}-top"} 
 	},
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
