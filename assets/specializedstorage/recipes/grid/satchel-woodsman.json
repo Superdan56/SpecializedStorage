@@ -4,8 +4,9 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "RAR,LLL,S_S",
-        "ingrediants": {
+        "ingredients": {
             "A": {
+                "name": "axe",
                 "type": "item", 
                 "code": "axe-*", 
                 "isTool": true  
@@ -16,6 +17,7 @@
                 "quantity": 1
             },
             "L": {
+                "name": "log",
                 "type": "block",
                 "code": "game:log-*",
                 "quantity": 1

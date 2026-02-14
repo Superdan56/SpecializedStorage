@@ -3,11 +3,12 @@
         "name": "sack-mason-basic",
         "width": 3,
         "height": 2,
-        "ingredientPattern": "MTM,PLP",
+        "ingredientPattern": "DTD,PLP",
         "ingredients": {
-            "M": {
+            "D": {
+                "name": "daub",
                 "type": "item", 
-				"code": "game:mortar", 
+				"code": "game:daub-*", 
 				"quantity": 4
             },
             "T": {
@@ -16,11 +17,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -39,7 +42,8 @@
         "height": 2,
         "ingredientPattern": "D_D,PLP",
         "ingredients": {
-            "M": {
+            "D": {
+                "name": "daub",
                 "type": "item", 
 				"code": "game:daub-*", 
 				"quantity": 4
@@ -50,6 +54,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -80,10 +85,11 @@
             },
             "B": {
                 "type": "item",
-                "code": "game:sack-mason-basic",
+                "code": "sack-mason-basic",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["iron", "meteoriciron", "steel"],

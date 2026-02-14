@@ -4,7 +4,7 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "B_B,_P_,B_B",
-        "ingrediants": {
+        "ingredients": {
             "B": {
                 "type": "item",
                 "code": "game:bushmeat-raw",

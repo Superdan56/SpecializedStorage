@@ -4,13 +4,14 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "_R_,SPS,_S_",
-        "ingrediants": {
+        "ingredients": {
             "R": {
                 "type": "item",
                 "code": "game:rot",
                 "quantity": 1
             },
             "S": {
+                "name": "seeds",
                 "type": "item",
                 "code": "game:seeds-*",
                 "quantity": 1

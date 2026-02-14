@@ -16,11 +16,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -50,11 +52,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -84,11 +88,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -118,11 +124,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -181,6 +189,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -210,6 +219,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -239,6 +249,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -258,16 +269,18 @@
         "ingredientPattern": "DDD,PBP,SSS",
         "ingredients": {
             "D": {
+                "name": "terra",
                 "type": "block", 
 				"code": "game:soil-high-*", 
 				"quantity": 1
             },
             "B": {
                 "type": "item",
-                "code": "game:sack-agriculture",
+                "code": "sack-agriculture-basic",
                 "quantity": 2
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["iron", "meteoriciron", "steel"],

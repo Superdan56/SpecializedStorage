@@ -1,13 +1,14 @@
 [
     {
         "name": "pouch-nautical",
-        "width": 1,
+        "width": 3,
         "height": 2,
-        "ingredientPattern": "S,P",
-        "ingrediants": {
+        "ingredientPattern": "_S_,_P_",
+        "ingredients": {
             "S": {
+                "name": "shell",
                 "type": "block",
-                "code": "game:seashell",
+                "code": "game:seashell-*",
                 "quantity": 1
             },
             "P": {

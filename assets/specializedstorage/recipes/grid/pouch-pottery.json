@@ -4,8 +4,9 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "CCC,CPC,CCC",
-        "ingrediants": {
+        "ingredients": {
             "C": {
+                "name": "clay",
                 "type": "item",
                 "code": "game:clay-*",
                 "quantity": 1

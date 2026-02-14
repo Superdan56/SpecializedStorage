@@ -4,8 +4,9 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "SSS,SPS,SSS",
-        "ingrediants": {
+        "ingredients": {
             "S": {
+                "name": "sand",
                 "type": "block",
                 "code": "game:sand-*",
                 "quantity": 1
@@ -29,6 +30,7 @@
         "ingredientPattern": "SSS,SPS,SSS",
         "ingrediants": {
             "S": {
+                "name": "gravel",
                 "type": "block",
                 "code": "game:gravel-*",
                 "quantity": 1

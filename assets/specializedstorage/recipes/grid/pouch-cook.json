@@ -4,8 +4,9 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "_V_,VPV,_V_",
-        "ingrediants": {
+        "ingredients": {
             "V": {
+                "name": "Vegi",
                 "type": "item",
                 "code": "game:vegetable-*",
                 "quantity": 1
@@ -29,6 +30,7 @@
         "ingredientPattern": "_G_,GPG,_G_",
         "ingrediants": {
             "G": {
+                "name": "Grain",
                 "type": "item",
                 "code": "game:grain-*",
                 "quantity": 1
@@ -52,6 +54,7 @@
         "ingredientPattern": "_L_,LPL,_L_",
         "ingrediants": {
             "L": {
+                "name": "legume",
                 "type": "item",
                 "code": "game:legume-*",
                 "quantity": 1
@@ -75,6 +78,7 @@
         "ingredientPattern": "_B_,BPB,_B_",
         "ingrediants": {
             "B": {
+                "name": "bug",
                 "type": "item",
                 "code": "game:insect-*",
                 "quantity": 1

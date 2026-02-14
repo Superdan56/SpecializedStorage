@@ -6,6 +6,7 @@
         "ingredientPattern": "GTG,PLP",
         "ingredients": {
             "G": {
+                "name": "gem",
                 "type": "item", 
 				"code": "game:ore-*",
                 "allowedVariants": ["quartz", "olivine"],
@@ -22,6 +23,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -40,7 +42,8 @@
         "height": 2,
         "ingredientPattern": "G_G,PBP",
         "ingredients": {
-            "Q": {
+            "G": {
+                "name": "gem",
                 "type": "item", 
 				"code": "game:ore-*",
                 "allowedVariants": ["quartz", "olivine"],
@@ -52,6 +55,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -71,12 +75,14 @@
         "ingredientPattern": "GIG,PBP,LLL",
         "ingredients": {
             "G": {
+                "name": "gem",
                 "type": "item",
                 "code": "game:ore-*",
                 "allowedVariants": ["alum", "anthracite", "borax", "corundum", "cinnabar", "lapislazuli", "sulfur", "emerald", "peridot", "diamond"],
                 "quantity": 4
             },
             "I": {
+                "name": "ingot",
                 "type": "item", 
 				"code": "game:ingot-*",
                 "allowedVariants": ["gold","silver","electrum","silversolder","chromium","platinum","titanium"], 
@@ -84,10 +90,11 @@
             },
             "B": {
                 "type": "item",
-                "code": "game:sack-mining-basic",
+                "code": "sack-mining-basic",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["iron", "meteoriciron", "steel"],

@@ -21,11 +21,13 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -60,6 +62,7 @@
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
@@ -79,7 +82,7 @@
         "ingredientPattern": "AHA,PBP,SSS",
         "ingredients": {
             "A": {
-                "type": "item", 
+                "type": "block", 
 				"code": "game:archimedesscrew", 
 				"quantity": 1
             },
@@ -90,10 +93,11 @@
             },
             "B": {
                 "type": "item",
-                "code": "game:sack-engineer-basic",
+                "code": "sack-engineer-basic",
                 "quantity": 1
             },
             "P": {
+                "name": "plate",
 				"type": "item", 
 				"code": "game:metalplate-*", 
 				"allowedVariants": ["iron", "meteoriciron", "steel"],
