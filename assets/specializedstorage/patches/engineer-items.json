@@ -1,5 +1,6 @@
 [
-  { "file": "game:itemtypes/resource/resin",     
+  { 
+    "file": "game:itemtypes/resource/resin",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385

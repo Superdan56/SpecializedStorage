@@ -1,5 +1,6 @@
 [
-  { "file": "game:itemtypes/resource/mortar.json",     
+  { 
+    "file": "game:itemtypes/resource/mortar.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 131073

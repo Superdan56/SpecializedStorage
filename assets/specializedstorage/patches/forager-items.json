@@ -1,12 +1,141 @@
 [
-  { "file": "game:blocktypes/plant/mushroom.json",     
+  { 
+    "file": "game:itemtypes/food/bambooshoot.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 8193
   },
-  { "file": "game:itemtypes/food/berry.json",
+  { 
+    "file": "game:itemtypes/food/fruit.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/bamboostakes.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/beeswax.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/cattailroot.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/cattailtops.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/drygrass.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/flaxfibers.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/flaxtwine.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/honeycomb.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/slush.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/thatch.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/resource/tuleroot.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/tool/knife.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:itemtypes/snowball.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/mushroom.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/barrelcactus.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:blocktypes/plant/bigbarrybush.json",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:",
+    "op": "addmerge",
+    "path": "/storageFlags",
+    "value": 8193
+  },
+  { 
+    "file": "game:",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   }
+
 ]
