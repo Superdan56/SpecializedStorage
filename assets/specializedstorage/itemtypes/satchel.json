@@ -30,11 +30,11 @@
         }
     ],
     "shape": {
-        "base": {"base": "item/satchel/woodsatchel"}
+        "base": {"base": "game:item/bag/backpack-normal"}
     },
     "textures": {
-        "surface": "game:block/wood/shelf/surface",
-		"wood": "game:block/wood/shelf/wood"
+        "straps": "game:item/resource/rope",
+		"leather": "game:item/tool/shield/wood"
     },
     "guiTransform": {
 		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
