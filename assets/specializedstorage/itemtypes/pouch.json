@@ -49,8 +49,8 @@
             "name": "HeldBag" 
         }
     ],
-    "shape": {
-        "base": {"base": "game:item/bag/linensack"}
+    "shapebyType": {
+        "*": {"base": "game:item/bag/linensack"}
     },
     "textures": {
         "linen": {"base": "item/pouch/pouch-{type}-linen"},

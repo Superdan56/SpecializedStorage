@@ -29,8 +29,8 @@
             "name": "HeldBag" 
         }
     ],
-    "shape": {
-        "base": {"base": "game:item/bag/backpack-normal"}
+    "shapebyType": {
+        "*": {"base": "game:item/bag/backpack-normal"}
     },
     "textures": {
         "straps": {"base": "game:item/resource/rope"},
