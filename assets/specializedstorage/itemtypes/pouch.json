@@ -3,7 +3,7 @@
     "maxstacksize": 1,
     "storageFlags": 2,
     "variantgroups": [
-		{"code": "type", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
+		{"code": "type", "states": ["basic", "agriculture", "cook", "forager", "hunter", "nautical", "mason", "pottery"]}
 	],
     "attributes": {
         "backpackByType": {
