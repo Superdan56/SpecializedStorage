@@ -3,7 +3,7 @@
     "maxstacksize": 1,
     "storageFlags": 2,
     "variantgroups": [
-		{"code": "type", "states": ["argiculture", "engineering", "hunter", "mason", "mining", "pottery", "woodsman"]},
+		{"code": "type", "states": ["argiculture", "engineer", "hunter", "mason", "mining", "pottery", "woodsman"]},
 		{"code": "size", "states": ["basic", "sturdy"]}
 	],
     "attributes": {
@@ -15,7 +15,7 @@
 					"*-sturdy": 16
 				}
             },
-            "*-engineering-*": {
+            "*-engineer-*": {
                 "storageFlags": 16384,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -23,7 +23,7 @@
 				}
             },
             "*-hunter-*": {
-                "storageFlags": 34096,
+                "storageFlags": 4097,
                 "quantitySlotsByType": {
 					"*-basic": 12,
 					"*-sturdy": 16

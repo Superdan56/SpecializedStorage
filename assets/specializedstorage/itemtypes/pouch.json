@@ -13,7 +13,6 @@
             "*-agriculture": {
                 "quantitySlots": 6,
                 "storageFlags": 32
-                
             },
             "*-cook": {
                 "quantitySlots": 6,
@@ -21,11 +20,11 @@
             },
             "*-forager": {
                 "quantitySlots": 6,
-                "storageFlags": 32
+                "storageFlags": 8192
             },
             "*-hunter": {
                 "quantitySlots": 6,
-                "storageFlags": 34096
+                "storageFlags": 4096
             },
             "*-mason": {
                 "quantitySlots": 6,
