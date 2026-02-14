@@ -8,8 +8,8 @@
             "A": {
                 "name": "axe",
                 "type": "item", 
-                "code": "axe-*", 
-                "isTool": true  
+                "code": "game:axe-*", 
+                "isTool": true
             },
             "R": {
                 "type": "item",

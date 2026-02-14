@@ -21,5 +21,28 @@
             "code": "pouch-hunter",
             "quantity": 1
         }
+    },
+    {
+        "name": "pouch-hunter",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "M_M,_P_,M_M",
+        "ingredients": {
+            "M": {
+                "type": "item",
+                "code": "game:redmeat-raw",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-hunter",
+            "quantity": 1
+        }
     }
 ]

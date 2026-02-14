@@ -8,7 +8,7 @@
             "D": {
                 "name": "daub",
                 "type": "item", 
-				"code": "game:daub-*", 
+				"code": "game:daubraw-*", 
 				"quantity": 4
             },
             "T": {
@@ -44,7 +44,7 @@
             "D": {
                 "name": "daub",
                 "type": "item", 
-				"code": "game:daub-*", 
+				"code": "game:daubraw-*", 
 				"quantity": 4
             },
             "L": {
