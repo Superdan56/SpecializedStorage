@@ -28,7 +28,7 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "SSS,SPS,SSS",
-        "ingrediants": {
+        "ingredients": {
             "S": {
                 "name": "gravel",
                 "type": "block",

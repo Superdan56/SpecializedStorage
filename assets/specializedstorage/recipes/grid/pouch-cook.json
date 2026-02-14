@@ -28,7 +28,7 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "_G_,GPG,_G_",
-        "ingrediants": {
+        "ingredients": {
             "G": {
                 "name": "Grain",
                 "type": "item",
@@ -52,7 +52,7 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "_L_,LPL,_L_",
-        "ingrediants": {
+        "ingredients": {
             "L": {
                 "name": "legume",
                 "type": "item",
@@ -76,7 +76,7 @@
         "width": 3,
         "height": 3,
         "ingredientPattern": "_B_,BPB,_B_",
-        "ingrediants": {
+        "ingredients": {
             "B": {
                 "name": "bug",
                 "type": "item",
