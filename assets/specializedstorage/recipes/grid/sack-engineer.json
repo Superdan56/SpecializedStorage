@@ -1,0 +1,114 @@
+[
+    {
+        "name": "sack-engineer-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "RTF,PLP",
+        "ingredients": {
+            "S": {
+                "type": "item", 
+				"code": "game:resin", 
+				"quantity": 1
+            },
+            "F": {
+                "type": "item",
+                "code": "game:fat",
+                "quantity": 1
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-engineer-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-engineer-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "R_F,PBP",
+        "ingredients": {
+            "S": {
+                "type": "item", 
+				"code": "game:resin", 
+				"quantity": 1
+            },
+            "F": {
+                "type": "item",
+                "code": "game:fat",
+                "quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-engineer-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-engineer-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "AHA,PBP,SSS",
+        "ingredients": {
+            "A": {
+                "type": "item", 
+				"code": "game:archimedesscrew", 
+				"quantity": 1
+            },
+            "H": {
+                "type": "block",
+                "code": "game:hopper",
+                "quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "game:sack-engineer-basic",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "S": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-engineer-sturdy",
+            "quantity": 1
+        }
+    }
+]
