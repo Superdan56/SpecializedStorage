@@ -22,32 +22,6 @@
     "item-case-woodsman": "Forestry Traveling Case",
     "itemdesc-case-woodsman": "Can only hold forestry items.",
 
-    "item-depository-agriculture": "Agriculture Depository",
-    "itemdesc-depository-agriculture": "Can only hold agriculture items.",
-    "item-depository-cook": "Culinary Depository",
-    "itemdesc-depository-cook": "Can only hold cooking items.",  
-    "item-depository-engineer": "Instustrial Depository",
-    "itemdesc-depository-engineer": "Can only hold engineering items.",   
-    "item-depository-firewood": "Firekeeping Depository",
-    "itemdesc-depository-firewood": "Can only hold firewood, charcoal, and coke.",   
-    "item-depository-forager": "Exploration Depository",
-    "itemdesc-depository-forager": "Can only hold foragable items.",   
-    "item-depository-hunter": "Huntsman Depository",
-    "itemdesc-depository-hunter": "Can only hold hunting items.",
-    "item-depository-mason": "Masonry Depository",
-    "itemdesc-depository-mason": "Can only hold stonework items.",
-    "item-depository-mining": "Excavation Depository",
-    "itemdesc-depository-mining": "Can only hold mining items.",
-    "item-depository-nautical": "Nautical Depository",
-    "itemdesc-depository-nautical": "Can only hold marine items.",
-    "item-depository-pottery": "Earthenware Depository",
-    "itemdesc-depository-pottery": "Can only hold pottery items.",
-    "item-depository-woodsman": "Forestry Depository",
-    "itemdesc-depository-woodsman": "Can only hold forestry items.",
-
-    "item-firewoodrack": "Firewood Storage Rack",
-    "itemdesc-firewoodrack": "Can only hold firewood, charcoal, and coke.",
-
     "item-firewoodsatchel": "Firewood Satchel",
     "itemdesc-firewoodsatchel": "Can only hold firewood, charcoal, and coke.",
 
@@ -116,10 +90,6 @@
     "itemdesc-strongbox-nautical": "Can only hold marine items.",
     "item-strongbox-pottery": "Pottery Strongbox",
     "itemdesc-strongbox-pottery": "Can only hold pottery items.",
-
-    
-    "item-woodsmanrack": "Log Storage Rack",
-    "itemdesc-woodsmanrack": "Can only hold logs and forestry items",
 
     "item-woodsmansatchel": "Woodsman's Satchel",
     "itemdesc-woodsmansatchel": "Can only hold logs and forestry items"

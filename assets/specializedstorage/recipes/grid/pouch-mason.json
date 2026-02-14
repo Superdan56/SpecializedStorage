@@ -1,0 +1,48 @@
+[
+    {
+        "name": "pouch-mason",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "SSS,SPS,SSS",
+        "ingrediants": {
+            "S": {
+                "type": "block",
+                "code": "game:sand-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-mason",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "pouch-mason",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "SSS,SPS,SSS",
+        "ingrediants": {
+            "S": {
+                "type": "block",
+                "code": "game:gravel-*",
+                "quantity": 1
+            },
+            "P": {
+                "type": "item",
+                "code": "pouch-basic",
+                "quantity": 1
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "pouch-mason",
+            "quantity": 1
+        }
+    }
+]

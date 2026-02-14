@@ -3,12 +3,12 @@
     "maxstacksize": 1,
     "storageFlags": 2,
     "variantgroups": [
-		{"code": "type", "states": ["argiculture", "engineer", "hunter", "mason", "mining", "pottery", "woodsman"]},
+		{"code": "type", "states": ["agriculture", "engineer", "hunter", "mason", "mining", "pottery", "woodsman"]},
 		{"code": "size", "states": ["basic", "sturdy"]}
 	],
     "attributes": {
         "backpackByType": {
-            "*-argiculture-*": {
+            "*-agriculture-*": {
                 "storageFlags": 32,
                 "quantitySlotsByType": {
 					"*-basic": 12,

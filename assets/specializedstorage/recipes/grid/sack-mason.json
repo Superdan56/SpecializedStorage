@@ -1,0 +1,104 @@
+[
+    {
+        "name": "sack-mason-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "MTM,PLP",
+        "ingredients": {
+            "M": {
+                "type": "item", 
+				"code": "game:mortar", 
+				"quantity": 4
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mason-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-mason-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "D_D,PLP",
+        "ingredients": {
+            "M": {
+                "type": "item", 
+				"code": "game:daub-*", 
+				"quantity": 4
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mason-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-mason-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "MDM,PBP,SSS",
+        "ingredients": {
+            "D": {
+                "type": "block", 
+				"code": "game:drystone-mixed", 
+				"quantity": 1
+            },
+            "M": {
+                "type": "item",
+                "code": "game:mortar",
+                "quantity": 4
+            },
+            "B": {
+                "type": "item",
+                "code": "game:sack-mason-basic",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "S": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-mason-sturdy",
+            "quantity": 1
+        }
+    }
+]

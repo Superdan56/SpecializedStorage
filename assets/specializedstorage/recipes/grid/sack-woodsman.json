@@ -1,0 +1,109 @@
+[
+    {
+        "name": "sack-woodsman-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "WTS,PLP",
+        "ingredients": {
+            "W": {
+                "type": "block", 
+				"code": "game:log-*",
+				"quantity": 16
+            },
+            "S": {
+                "type": "item", 
+				"code": "game:treeseed-*",
+				"quantity": 16
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-woodsman-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-woodsman-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "WTS,PLP",
+        "ingredients": {
+            "W": {
+                "type": "block", 
+				"code": "game:log-*",
+				"quantity": 16
+            },
+            "S": {
+                "type": "item", 
+				"code": "game:treeseed-*",
+				"quantity": 16
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-woodsman-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-woodsman-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "SSS,PBP,LLL",
+        "ingredients": {
+            "S": {
+                "type": "item",
+                "code": "game:stick",
+                "quantity": 64
+            },
+            "B": {
+                "type": "item",
+                "code": "game:sack-woodsman-basic",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "L": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-woodsman-sturdy",
+            "quantity": 1
+        }
+    }
+]
