@@ -66,13 +66,13 @@
         }
     ],
     "shape": {
-        "base": {"base": "block/wood/chest/golden"}
+        "base": {"base": "game:block/wood/chest/golden"}
     },
     "textures": {
-		"inside": { "base": "item/case/inside"},
-		"sides1": { "base": "item/case/case-{type}-sides1"},
-        "sides2": { "base": "item/case/case-{type}-sides2"},
-        "top": { "base": "item/case/case-{type}-top"}
+		"inside": { "base": "game:item/case/inside"},
+		"sides1": { "base": "game:item/case/case-{type}-sides1"},
+        "sides2": { "base": "game:item/case/case-{type}-sides2"},
+        "top": { "base": "game:item/case/case-{type}-top"}
 	},
     "guiTransform": {
 		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },

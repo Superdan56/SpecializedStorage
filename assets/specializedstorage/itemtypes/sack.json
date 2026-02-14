@@ -72,7 +72,7 @@
         }
     ],
     "shapeByType": {
-        "*-base": {"base": "game:item/bag/linensack"},
+        "*-basic": {"base": "game:item/bag/linensack"},
         "*-sturdy": {"base": "game:item/bag/miningbagsturdy"}
     },
     "textures": {
