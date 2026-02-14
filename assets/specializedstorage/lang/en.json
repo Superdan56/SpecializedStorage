@@ -3,8 +3,6 @@
     "item-pouch-basic": "Pelt Pouch",
     "item-pouch-agriculture": "Farmer's Pouch",
     "itemdesc-pouch-agriculture": "Can only hold agriculture items.",
-    "item-pouch-cook": "Cook's Pouch",
-    "itemdesc-pouch-cook": "Can only hold cooking items.",
     "item-pouch-forager": "Forager's Pouch",
     "itemdesc-pouch-forager": "Can only hold foragable items.",   
     "item-pouch-hunter": "Hunter's pouch",
@@ -18,6 +16,8 @@
 
     "item-sack-agriculture-basic": "Farming Bag",
     "itemdesc-sack-agriculture-basic": "Can only hold agriculture items.",
+    "item-sack-cook-basic": "Cooking Sack",
+    "itemdesc-sack-cook-basic": "Can only hold cooking items.",
     "item-sack-engineer-basic": "Tinkering Bag",
     "itemdesc-sack-engineer-basic": "Can only hold engineering items.",   
     "item-sack-hunter-basic": "Hunting Bag",
@@ -35,6 +35,8 @@
 
     "item-sack-agriculture-sturdy": "Sturdy Farming Bag",
     "itemdesc-sack-agriculture-sturdy": "Can only hold agriculture items.",
+    "item-sack-cook-sturdy": "Sturdy Cooking Sack",
+    "itemdesc-sack-cook-sturdy": "Can only hold cooking items.",
     "item-sack-engineer-sturdy": "Sturdy Tinkering Bag",
     "itemdesc-sack-engineer-sturdy": "Can only hold engineering items.",   
     "item-sack-hunter-sturdy": "Sturdy Hunting Bag",
