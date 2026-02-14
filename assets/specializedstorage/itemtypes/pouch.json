@@ -1,7 +1,7 @@
 {
     "code": "pouch",
     "maxstacksize": 1,
-    "storageFlag": 2,
+    "storageFlags": 2,
     "variantgroups": [
 		{"code": "type", "states": ["agriculture", "basic", "cook", "forager", "hunter", "mason", "pottery"]}
 	],
