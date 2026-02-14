@@ -23,7 +23,6 @@
                 "quantity": 1
             },
             "L": {
-                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
