@@ -16,7 +16,7 @@
                 "quantity": 1
             },
             "L": {
-                "type": "item",
+                "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
             },
