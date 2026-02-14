@@ -51,7 +51,6 @@
                 "quantity": 1
             },
             "L": {
-                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
@@ -87,7 +86,6 @@
                 "quantity": 1
             },
             "L": {
-                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
@@ -123,7 +121,6 @@
                 "quantity": 1
             },
             "L": {
-                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
@@ -276,7 +273,7 @@
             "B": {
                 "type": "item",
                 "code": "sack-agriculture-basic",
-                "quantity": 2
+                "quantity": 1
             },
             "P": {
                 "name": "plate",
@@ -286,8 +283,9 @@
                 "quantity": 1
 			},
             "S": {
+                "name": "leather",
                 "type": "item",
-                "code": "game:leather-sturdy",
+                "code": "game:leather-sturdy-*",
                 "quantity": 3
             }
         },

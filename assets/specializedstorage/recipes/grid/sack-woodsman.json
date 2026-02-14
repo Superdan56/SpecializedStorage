@@ -102,8 +102,9 @@
                 "quantity": 1
 			},
             "L": {
+                "name": "leather",
                 "type": "item",
-                "code": "game:leather-sturdy",
+                "code": "game:leather-sturdy-*",
                 "quantity": 3
             }
         },
