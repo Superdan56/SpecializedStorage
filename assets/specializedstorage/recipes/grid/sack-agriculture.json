@@ -1,0 +1,367 @@
+[
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "STF,PLP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:potash",
+                "quantity": 8
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "STF,PLP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:saltpeter",
+                "quantity": 8
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "STF,PLP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:compost",
+                "quantity": 8
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "STF,PLP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:bonemeal",
+                "quantity": 8
+            },
+            "T": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+{
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "S_F,PBP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:potash",
+                "quantity": 8
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "S_F,PBP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:saltpeter",
+                "quantity": 8
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "S_F,PBP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:compost",
+                "quantity": 8
+            },
+            "L": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-basic",
+        "width": 3,
+        "height": 2,
+        "ingredientPattern": "S_F,PBP",
+        "ingredients": {
+            "S": {
+                "type": "block", 
+				"code": "game:cob", 
+				"quantity": 8
+            },
+            "F": {
+                "type": "item",
+                "code": "game:bonemeal",
+                "quantity": 8
+            },
+            "B": {
+                "type": "item",
+                "code": "game:linensack",
+                "quantity": 1
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			}
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture-basic",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "DFD,PLP,SSS",
+        "ingredients": {
+            "D": {
+                "type": "block", 
+				"code": "game:soil-high-*", 
+				"quantity": 1
+            },
+            "F": {
+                "type": "item",
+                "code": "game:flaxtwine",
+                "quantity": 1
+            },
+            "L:": {
+                "type": "item",
+                "code": "game:linen-*",
+                "quantity": 2
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "S": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-agriculture-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "D_D,PBP,SSS",
+        "ingredients": {
+            "D": {
+                "type": "block", 
+				"code": "game:soil-high-*", 
+				"quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "game:sack-agriculture",
+                "quantity": 2
+            },
+            "P": {
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "S": {
+                "type": "item",
+                "code": "game:leather-sturdy",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-agriculture",
+            "quantity": 1
+        }
+    }
+]
