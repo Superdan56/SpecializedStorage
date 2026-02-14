@@ -326,7 +326,7 @@
         },
         "output": {
             "type": "item",
-            "code": "sack-agriculture",
+            "code": "sack-agriculture-sturdy",
             "quantity": 1
         }
     },
@@ -360,7 +360,7 @@
         },
         "output": {
             "type": "item",
-            "code": "sack-agriculture",
+            "code": "sack-agriculture-sturdy",
             "quantity": 1
         }
     }
