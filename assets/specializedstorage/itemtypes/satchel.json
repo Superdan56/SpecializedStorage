@@ -1,19 +1,28 @@
 {
-    "code": "firewoodsatchel",
+    "code": "satchel",
     "maxstacksize": 1,
     "storageFlags": 2,
+    "variantgroups": [
+		{"code": "type", "states": ["firewood", "woodsman"]}
+	],
     "attributes": {
-        "backpack": {
-            "quantitySlots": 6,
-            "storageFlags": 524288
-        }
+        "backpackByType": {
+            "*-firewood": {
+                "quantitySlots": 6,
+                "storageFlags": 524288
+            },
+            "*-woodsman": {
+                "quantitySlots": 6,
+                "storageFlags": 2048
+            }
+        }    
     },
     "behaviors": [
         {
             "name": "GroundStorable", 
             "properties": { 
                 "layout": "SingleCenter", 
-                "collisionBox": { "x1": 0.125, "y1": 0, "z1": 0.1875, "x2": 0.875, "y2": 0.4875, "z2": 0.75 }
+                "collisionBox": { "x1": 0.75, "y1": 0.75, "z1": 0.75, "x2": 0.75, "y2": 0.75, "z2": 0.75 }
             }
         },
 		{
@@ -21,7 +30,7 @@
         }
     ],
     "shape": {
-        "base": {"base": "item/wearable/woodsatchel"}
+        "base": {"base": "item/satchel/woodsatchel"}
     },
     "textures": {
         "surface": "game:block/wood/shelf/surface",
@@ -44,10 +53,10 @@
 		"translation": { "x": 0, "y": 0, "z": 0 },
 		"rotation": { "x": 0, "y": 0, "z": 0 },
 		"origin": { "x": 0, "y": 0, "z": 0 },
-		"scale": 0.5
+		"scale": 0.75
 	},
     "creativeinventory": {
-        "general": ["*"], 
-        "items": ["*"]
+            "general": ["*"], 
+            "items": ["*"]
     }
 }

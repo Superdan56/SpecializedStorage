@@ -1,6 +1,6 @@
 [
     {
-        "name": "woodsmansatchel",
+        "name": "satchel-woodsman",
         "width": 3,
         "height": 3,
         "ingredientPattern": "RAR,LLL,S_S",
@@ -28,7 +28,7 @@
         },
         "output": {
             "type": "item",
-            "code": "woodsmansatchel",
+            "code": "satchel-woodsman",
             "quantity": 1
         }
     }

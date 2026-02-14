@@ -1,6 +1,6 @@
 [
     {
-        "name": "firewoodsatchel",
+        "name": "satchel-firewood",
         "width": 3,
         "height": 3,
         "ingredientPattern": "SRS,SFS,SRS",
@@ -23,7 +23,7 @@
         },
         "output": {
             "type": "item",
-            "code": "firewoodsatchel",
+            "code": "satchel-firewood",
             "quantity": 1
         }
     }
