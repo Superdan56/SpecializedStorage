@@ -1,9 +1,9 @@
 [
     {
         "name": "pouch-basic",
-        "width": 1,
+        "width": 3,
         "height": 2,
-        "ingredientPattern": "R,P",
+        "ingredientPattern": "_R_,_P_",
         "ingrediants": {
             "R": {
                 "type": "item",
@@ -24,9 +24,9 @@
     },
     {
         "name": "pouch-basic",
-        "width": 1,
+        "width": 3,
         "height": 2,
-        "ingredientPattern": "R,P",
+        "ingredientPattern": "_R_,_P_",
         "ingrediants": {
             "R": {
                 "type": "item",
@@ -47,9 +47,9 @@
     },
     {
         "name": "pouch",
-        "width": 1,
+        "width": 3,
         "height": 2,
-        "ingredientPattern": "R,P",
+        "ingredientPattern": "_R_,_P_",
         "ingrediants": {
             "R": {
                 "type": "item",
