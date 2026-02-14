@@ -22,7 +22,7 @@
                 "code": "game:log-*",
                 "quantity": 1
             },
-            "P": {
+            "S": {
                 "type": "item",
                 "code": "game:stick",
                 "quantity": 1

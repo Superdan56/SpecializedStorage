@@ -3,7 +3,7 @@
         "name": "pouch-forager",
         "width": 3,
         "height": 3,
-        "ingredientPattern": "GCG,CPC,GCS",
+        "ingredientPattern": "GCG,CPC,GCG",
         "ingredients": {
             "G": {
                 "type": "item",
@@ -31,7 +31,7 @@
         "name": "pouch-forager",
         "width": 3,
         "height": 3,
-        "ingredientPattern": "GCG,CPC,GCS",
+        "ingredientPattern": "GCG,CPC,GCG",
         "ingredients": {
             "G": {
                 "type": "item",
