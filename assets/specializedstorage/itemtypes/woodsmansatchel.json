@@ -20,13 +20,12 @@
             "name": "HeldBag" 
         }
     ],
-    "Shape": { 
-        "base": {"base": "game:block/wood/logquad-corner"}
+    "shape": {
+        "base": {"base": "item/wearable/woodsatchel"}
     },
-    "Textures": {
-        "bark": "game:lock/wood/bark/quad/debarked/aged",
-		"barkup": "game:block/wood/bark/quad/debarked/aged",
-		"ends": "game:block/wood/treetrunk/quad/aged"
+    "textures": {
+        "surface": "game:block/wood/shelf/surface",
+		"wood": "game:block/wood/shelf/wood"
     },
     "guiTransform": {
 		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },

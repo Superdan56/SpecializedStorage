@@ -21,11 +21,11 @@
         }
     ],
     "shape": {
-        "base": {"base": "game:block/wood/moldrack"}
+        "base": {"base": "item/wearable/woodsatchel"}
     },
     "textures": {
         "surface": "game:block/wood/shelf/surface",
-		"wood": "game:block/wood/shelf/surface"
+		"wood": "game:block/wood/shelf/wood"
     },
     "guiTransform": {
 		"origin": { "x": 0.5, "y": 0.4, "z": 0.5 },
