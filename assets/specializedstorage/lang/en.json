@@ -1,8 +1,5 @@
 {
 
-    "item-firewoodsatchel": "Firewood Satchel",
-    "itemdesc-firewoodsatchel": "Can only hold firewood, charcoal, and coke.",
-
     "item-pouch-basic": "Pelt Pouch",
     "item-pouch-agriculture": "Farmer's Pouch",
     "itemdesc-pouch-agriculture": "Can only hold agriculture items.",
@@ -69,8 +66,10 @@
     "item-strongbox-pottery": "Pottery Strongbox",
     "itemdesc-strongbox-pottery": "Can only hold pottery items.",
 
-    "item-woodsmansatchel": "Woodsman's Satchel",
-    "itemdesc-woodsmansatchel": "Can only hold logs and forestry items"
+    "item-satchel-firewood": "Firewood Satchel",
+    "itemdesc-satchel-firewood": "Can only hold firewood, charcoal, and coke.",
+    "item-satchel-woodsman": "Woodsman's Satchel",
+    "itemdesc-satchel-woodsman": "Can only hold logs and forestry items"
 
 
 }
