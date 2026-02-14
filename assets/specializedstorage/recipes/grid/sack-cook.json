@@ -152,7 +152,7 @@
             },
             "B": {
                 "type": "item",
-                "code": "sack-engineer-basic",
+                "code": "sack-cook-basic",
                 "quantity": 1
             },
             "P": {
