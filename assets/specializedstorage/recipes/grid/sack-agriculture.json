@@ -150,7 +150,7 @@
                 "code": "game:potash",
                 "quantity": 4
             },
-            "L": {
+            "B": {
                 "type": "item",
                 "code": "game:linensack",
                 "quantity": 1
@@ -179,7 +179,7 @@
                 "code": "game:saltpeter",
                 "quantity": 4
             },
-            "L": {
+            "B": {
                 "type": "item",
                 "code": "game:linensack",
                 "quantity": 1
@@ -209,7 +209,7 @@
                 "code": "game:compost",
                 "quantity": 4
             },
-            "L": {
+            "B": {
                 "type": "item",
                 "code": "game:linensack",
                 "quantity": 1

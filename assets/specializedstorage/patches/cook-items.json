@@ -6,10 +6,105 @@
     "value": 32769
   },
   { 
+    "file": "game:itemtypes/food/butter.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/food/dough.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/food/egg.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
     "file": "game:itemtypes/food/flour.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/food/pickledlegume.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/food/pickledvegetable.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/food/rawcheese.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:itemtypes/resource/crushed/salt.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  {
+    "file": "game:itemtypes/resource/crushed/honeymash.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/food/cheese.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/food/egg.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/food/pie.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/clay/fired/bowl.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/clay/fired/bowl-meal.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
+    "file": "game:blocktypes/clay/fired/crock.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  {
+    "file": "game:blocktypes/clay/fired/pot.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  { 
+    "file": "game:blocktypes/clay/oven.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
   }
-  
 ]

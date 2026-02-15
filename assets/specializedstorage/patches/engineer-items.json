@@ -1,8 +1,207 @@
 [
   { 
-    "file": "game:itemtypes/resource/resin",     
+    "file": "game:itemtypes/resource/largegear.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/resource/largegearsection.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/resource/plank.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/resource/resin.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+    { 
+    "file": "game:itemtypes/resource/sail.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/tool/chisel.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/tool/hammer.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/tool/saw.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/tool/wrench.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/helvehammer.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/helvehammerhead.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/pounder.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/poundercap.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/pulverizertoggle.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:itemtypes/part/rod.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/angledgears.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/axle.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/brake.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/clutch.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/crank.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/angledgears.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/helvehammerbase.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/largegear3m.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/pulverizefram.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/toggle.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/transmission.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  { 
+    "file": "game:blocktypes/mechanics/windmillrotor.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/metal/archimedesscrew.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/metal/chute.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/mechanics/chute-cross.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/mechanics/chute-straight.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/mechanics/chute-t.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 16385
+  },
+  {
+    "file": "game:blocktypes/mechanics/hopper.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
   }
+
 ]

@@ -30,7 +30,7 @@
 				}
             },
             "*-hunter-*": {
-                "storageFlags": 4097,
+                "storageFlags": 4096,
                 "quantitySlotsByType": {
 					"*-basic": 12,
 					"*-sturdy": 16

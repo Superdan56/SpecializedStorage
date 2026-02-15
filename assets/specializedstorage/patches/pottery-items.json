@@ -1,8 +1,249 @@
 [
   { 
+    "file": "game:itemtypes/resource/burnedbrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  { 
     "file": "game:itemtypes/resource/clay.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 65537
+  },
+  { 
+    "file": "game:itemtypes/resource/clay-tile.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  { 
+    "file": "game:itemtypes/resource/rawbrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  { 
+    "file": "game:itemtypes/resource/refractorybrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/bloomerybase.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/bloomerychimney.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/brick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/brick-clinker.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+    {
+    "file": "game:blocktypes/clay/brickcourse.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+    {
+    "file": "game:blocktypes/clay/brickslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/brickslabcourse.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/brickstairs.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/brickstairscourse.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/chimneycourse.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/door-kiln.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/flowerpot-fancy.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/planter-fancy.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/refractorybrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/refractorybrickgrating.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/shingleblock.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/storagevessel-fancy.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/tile-block.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/tile-slab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/crucible.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/flowerpot.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/ingotmold.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/jug.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/oillamp.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/planter.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/fired/toolmold.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/bowl.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/crock.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/crucible.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/flowerpot.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/ingotmold.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/jug.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/planter.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/storagevessel.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/toolmold.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
+    "file": "game:blocktypes/clay/raw/wateringcan.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
   }
+
 ]

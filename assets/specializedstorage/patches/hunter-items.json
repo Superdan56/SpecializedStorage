@@ -1,15 +1,57 @@
 [
   { 
+    "file": "game:itemtypes/food/bushmeat.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
+  },
+  { 
     "file": "game:itemtypes/food/redmeat.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 2049 
+    "value": 4097 
+  },
+  { 
+    "file": "game:itemtypes/resource/antler.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
+  },
+  {
+    "file": "game:itemtypes/resource/bone.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
+  },
+  { 
+    "file": "game:itemtypes/resource/bone-tiny.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
+  },
+  {
+    "file": "game:itemtypes/resource/fat.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
+  },
+  {
+    "file": "game:itemtypes/resource/feather.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
   },
   { 
     "file": "game:itemtypes/resource/hide.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 2049 
+    "value": 4097 
+  },
+  { 
+    "file": "game:itemtypes/resource/hide-species.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 4097 
   },
   { 
     "file": "game:itemtypes/resource/leather.json",     
@@ -18,9 +60,9 @@
     "value": 4097
   },
   { 
-    "file": "game:itemtypes/resource/hide.json", 
+    "file": "game:itemtypes/tool/spear.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 2049 
+    "value": 4097
   }
 ]

@@ -11,6 +11,12 @@
     "path": "/storageFlags",
     "value": 8193
   },
+  {
+    "file": "game:itemtypes/food/insect.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 33
+  },
   { 
     "file": "game:itemtypes/resource/bamboostakes.json",
     "op": "addmerge",

@@ -1,20 +1,93 @@
 [
   { 
-    "file": "game:blocktypes/wood/woodtyped/log.json", 
-    "op": "addmerge", 
-    "path": "/storageFlags", 
-    "value": 2049 
-  },
-  { 
     "file": "game:itemtypes/resource/stick.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 2049 
   },
   { 
+    "file": "game:itemtypes/resource/treeseed.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:itemtypes/tool/axe-metal.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:itemtypes/tool/axe-stone.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:itemtypes/tool/shears.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
     "file": "game:blocktypes/wood/woodtyped/log.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log-carved.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log-debarked.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log-narrow.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log-quad.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/log-quad-corner.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/planks.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/plankslab.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/plankstairs.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
+  },
+  { 
+    "file": "game:blocktypes/wood/woodtyped/supportbeam.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 2049 
   }
+
 ]

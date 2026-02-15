@@ -1,12 +1,78 @@
 [
     {
-        "file": "game:itemtypes/food/",     
+        "file": "game:itemtypes/food/grain.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/food/legume.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/food/rawcassava.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33
     },
     { 
         "file": "game:itemtypes/food/vegetable.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    { 
+        "file": "game:itemtypes/resouces/crushed/bonemeal.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/resouces/crushed/lime.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/resouces/crushed/potash.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/resouces/crushed/saltpeter.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    { 
+        "file": "game:itemtypes/resource/compost.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/resouces/rot.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/resouces/seeds.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:itemtypes/tool/hoe.json",     
+        "op": "addmerge", 
+        "path": "/storageFlags", 
+        "value": 33
+    },
+    {
+        "file": "game:blocktypes/clay/fired/wateringcan.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33

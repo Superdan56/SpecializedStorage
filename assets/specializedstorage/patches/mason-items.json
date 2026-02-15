@@ -1,8 +1,261 @@
 [
   { 
+    "file": "game:itemtypes/resource/daub.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  { 
     "file": "game:itemtypes/resource/mortar.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 131073
+  },
+  { 
+    "file": "game:itemtypes/resource/quicklime.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  { 
+    "file": "game:itemtypes/resource/stonebrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:itemtypes/resource/stonebrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  { 
+    "file": "game:blocktypes/clay/daub-and-wattle.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cementationfurance/stonecoffin.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cementationfurance/stonecoffinlid.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cobble/cobbleskull.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cobble/cobbleslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cobble/cobblestone.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cobble/cobblestonestairs.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/cobble/fanned.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/diamond/diamond.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/generic/stonepath.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/generic/stonepathslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/generic/stonepathstairs.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/polished/polishedrock.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/polished/polishedrockold.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/polished/polishedrockslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/quartz/full.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/quartz/pillar.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/quartz/slab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/quartz/stairs.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/stonebrick/agedstonebrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/stonebrick/crackedstonebrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/stonebrick/stonebricks.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/stonebrick/stonebrickslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/stonebrick/stonebrickstairs.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/drystone.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/drystonefence-free.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/gravel.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/rock.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/sand.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/stone/sand.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/aridpackeddirt.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/cob.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/mudbrick.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/mudbrickslab.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/muddygravel.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/packeddirt.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/rammed.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
+  },
+  {
+    "file": "game:blocktypes/soil/sludgygravel.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 131073
   }
+
 ]
