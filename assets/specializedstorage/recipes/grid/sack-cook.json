@@ -108,7 +108,7 @@
         "height": 2,
         "ingredientPattern": "E_E,PBP",
         "ingredients": {
-            "D": {
+            "E": {
                 "name": "egg",
                 "type": "item", 
 				"code": "game:egg-*", 
