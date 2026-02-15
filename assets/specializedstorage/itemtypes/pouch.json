@@ -38,7 +38,7 @@
             "name": "GroundStorable", 
             "properties": { 
                 "layout": "SingleCenter", 
-                "collisionBox": {"x1": 0.20, "y1": 0, "z1": 0.20, "x2": 0.70, "y2": 0.350, "z2": 0.70}
+                "collisionBox": {"x1": 0.25, "y1": 0, "z1": 0.25, "x2": 0.75, "y2": 0.30, "z2": 0.75}
             }
         },
 		{
@@ -73,7 +73,7 @@
 		"translation": { "x": 0, "y": 0, "z": 0 },
 		"rotation": { "x": 180, "y": 33, "z": -180 },
 		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
-		"scale": 2.0
+		"scale": 1.5
 	},
     "creativeinventory": {
             "general": ["*"], 
