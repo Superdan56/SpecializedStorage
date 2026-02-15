@@ -15,7 +15,7 @@
 					"*-sturdy": 16
 				}
             },
-            "*-cook-": {
+            "*-cook-*": {
                 "storageFlags": 32768,
                 "quantitySlotsByType": {
                     "*-basic": 12,
