@@ -11,26 +11,32 @@
                 "quantitySlots": 3
             },
             "*-agriculture": {
+                "slotBgColor": "#377535",
                 "quantitySlots": 6,
                 "storageFlags": 32
             },
             "*-forager": {
+                "slotBgColor": "#3b5a29",
                 "quantitySlots": 6,
                 "storageFlags": 8192
             },
             "*-hunter": {
+                "slotBgColor": "7b4b2a",
                 "quantitySlots": 6,
                 "storageFlags": 4096
             },
             "*-nautical": {
+                "slotBgColor": "#11ede1",
                 "quantitySlots": 6,
                 "storageFlags": 262144
             },
             "*-mason": {
+                "slotBgColor": "#c3b7a3",
                 "quantitySlots": 6,
                 "storageFlags": 131072
             },
             "*-pottery": {
+                "slotBgColor": "b54220",
                 "quantitySlots": 6,
                 "storageFlags": 65536
             }
