@@ -22,6 +22,10 @@
                 "quantitySlots": 6,
                 "storageFlags": 4096
             },
+            "*-nautical": {
+                "quantitySlots": 6,
+                "storageFlags": 262144
+            },
             "*-mason": {
                 "quantitySlots": 6,
                 "storageFlags": 131072

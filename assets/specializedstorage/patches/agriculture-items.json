@@ -30,12 +30,6 @@
         "value": 33
     },
     {
-        "file": "game:itemtypes/resouces/crushed/lime.json",     
-        "op": "addmerge", 
-        "path": "/storageFlags", 
-        "value": 33
-    },
-    {
         "file": "game:itemtypes/resouces/crushed/potash.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 

@@ -23,12 +23,6 @@
     "path": "/storageFlags", 
     "value": 131073
   },
-  {
-    "file": "game:itemtypes/resource/stonebrick.json",     
-    "op": "addmerge", 
-    "path": "/storageFlags", 
-    "value": 131073
-  },
   { 
     "file": "game:blocktypes/clay/daub-and-wattle.json",     
     "op": "addmerge", 
@@ -193,12 +187,6 @@
   },
   {
     "file": "game:blocktypes/stone/rock.json",     
-    "op": "addmerge", 
-    "path": "/storageFlags", 
-    "value": 131073
-  },
-  {
-    "file": "game:blocktypes/stone/sand.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 131073

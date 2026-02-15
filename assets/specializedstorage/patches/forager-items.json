@@ -15,7 +15,7 @@
     "file": "game:itemtypes/food/insect.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 33
+    "value": 8193
   },
   { 
     "file": "game:itemtypes/resource/bamboostakes.json",
@@ -30,13 +30,13 @@
     "value": 8193
   },
   { 
-    "file": "game:itemtypes/resource/cattailroot.json",
+    "file": "game:itemtypes/resource/catttailroot.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193
   },
   { 
-    "file": "game:itemtypes/resource/cattailtops.json",
+    "file": "game:itemtypes/resource/catttailtops.json",
     "op": "addmerge",
     "path": "/storageFlags",
     "value": 8193

@@ -228,6 +228,12 @@
     "value": 65537
   },
   {
+    "file": "game:blocktypes/clay/raw/pot.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 65537
+  },
+  {
     "file": "game:blocktypes/clay/raw/storagevessel.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
