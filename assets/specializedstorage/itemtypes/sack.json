@@ -45,6 +45,7 @@
             },
             "*-mining-*": {
                 "storageFlags": 4,
+                "slotBgColor": "#c2ffe8",
                 "quantitySlotsByType": {
 					"*-basic": 12,
 					"*-sturdy": 16
