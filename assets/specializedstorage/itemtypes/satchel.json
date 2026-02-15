@@ -30,7 +30,7 @@
         }
     ],
     "shapebyType": {
-        "*": {"base": "game:item/bag/backpack-normal"}
+        "*": {"base": "item/satchel"}
     },
     "textures": {
         "straps": {"base": "game:item/resource/rope"},
