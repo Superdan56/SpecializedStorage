@@ -9,6 +9,7 @@
     "attributes": {
         "backpackByType": {
             "*-agriculture-*": {
+                "slotBgColor": "#377535",
                 "storageFlags": 32,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -30,6 +31,7 @@
 				}
             },
             "*-hunter-*": {
+                "slotBgColor": "#7b4b2a",
                 "storageFlags": 4096,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -37,6 +39,7 @@
 				}
             },
             "*-mason-*": {
+                "slotBgColor": "#c3b7a3",
                 "storageFlags": 131072,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -52,6 +55,7 @@
 				}
             },
             "*-pottery-*": {
+                "slotBgColor": "#b54220",
                 "storageFlags": 65536,
                 "quantitySlotsByType": {
 					"*-basic": 12,

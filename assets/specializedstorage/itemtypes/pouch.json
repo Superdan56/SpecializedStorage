@@ -21,7 +21,7 @@
                 "storageFlags": 8192
             },
             "*-hunter": {
-                "slotBgColor": "7b4b2a",
+                "slotBgColor": "#7b4b2a",
                 "quantitySlots": 6,
                 "storageFlags": 4096
             },
@@ -36,7 +36,7 @@
                 "storageFlags": 131072
             },
             "*-pottery": {
-                "slotBgColor": "b54220",
+                "slotBgColor": "#b54220",
                 "quantitySlots": 6,
                 "storageFlags": 65536
             }
