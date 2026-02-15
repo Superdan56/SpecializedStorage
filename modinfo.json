@@ -5,7 +5,7 @@
     "authors": [ "TheDiceSnake" ],
     "description": "A mod that adds a large number of specialized backpacks to expand on the mining bag.",
     "website": "",
-    "version": "0.0.2",
+    "version": "0.0.3",
 	"RequiredOnClient": true,
     "RequiredOnServer": true,
     "dependencies": {
