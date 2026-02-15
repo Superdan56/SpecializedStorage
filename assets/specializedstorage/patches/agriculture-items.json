@@ -24,19 +24,19 @@
         "value": 33
     },
     { 
-        "file": "game:itemtypes/resouce/crushed/bonemeal.json",     
+        "file": "game:itemtypes/resource/crushed/bonemeal.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33
     },
     {
-        "file": "game:itemtypes/resouce/crushed/potash.json",     
+        "file": "game:itemtypes/resource/crushed/potash.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33
     },
     {
-        "file": "game:itemtypes/resouce/crushed/saltpeter.json",     
+        "file": "game:itemtypes/resource/crushed/saltpeter.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33
@@ -48,13 +48,13 @@
         "value": 33
     },
     {
-        "file": "game:itemtypes/resouce/rot.json",     
+        "file": "game:itemtypes/resource/rot.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33
     },
     {
-        "file": "game:itemtypes/resouce/seeds.json",     
+        "file": "game:itemtypes/resource/seeds.json",     
         "op": "addmerge", 
         "path": "/storageFlags", 
         "value": 33

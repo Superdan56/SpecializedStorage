@@ -117,7 +117,7 @@
     "file": "game:blocktypes/wood/bucket.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 262145
+    "value": 32769
   }
 
 ]
