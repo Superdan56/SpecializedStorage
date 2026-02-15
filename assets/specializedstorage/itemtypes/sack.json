@@ -83,8 +83,8 @@
         "*-sturdy": {"base": "game:item/bag/miningbagsturdy"}
     },
     "textures": {
-		"linen": {"base": "item/sack/sack-{type}-linen"},
-		"top": {"base": "item/sack/sack-{type}-top"} 
+		"linen": {"base": "sack/sack-{type}-linen"},
+		"top": {"base": "sack/sack-{type}-top"} 
 	},
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },

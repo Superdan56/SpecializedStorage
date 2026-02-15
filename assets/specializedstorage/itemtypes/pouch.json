@@ -49,8 +49,8 @@
         "*": {"base": "game:item/bag/linensack"}
     },
     "textures": {
-        "linen": {"base": "item/pouch/pouch-{type}-linen"},
-		"top": {"base": "item/pouch/pouch-{type}-top"}
+        "linen": {"base": "pouch/pouch-{type}-linen"},
+		"top": {"base": "pouch/pouch-{type}-top"}
     },
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
