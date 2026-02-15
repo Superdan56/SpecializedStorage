@@ -12,7 +12,7 @@
     "value": 32769
   },
   { 
-    "file": "game:itemtypes/food/rawcheese.json",     
+    "file": "game:itemtypes/food/cheese.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 32769
@@ -119,5 +119,5 @@
     "path": "/storageFlags", 
     "value": 262145
   }
-  
+
 ]
