@@ -12,6 +12,12 @@
     "value": 32769
   },
   { 
+    "file": "game:itemtypes/food/rawcheese.json",     
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 32769
+  },
+  { 
     "file": "game:itemtypes/food/dough.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
@@ -99,12 +105,19 @@
     "file": "game:blocktypes/clay/fired/pot.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
-    "value": 65537
+    "value": 32769
   },
   { 
     "file": "game:blocktypes/clay/oven.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 32769
+  },
+  {
+    "file": "game:blocktypes/wood/bucket.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 262145
   }
+  
 ]

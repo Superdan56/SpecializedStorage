@@ -36,6 +36,12 @@
     "value": 262145
   },
   { 
+    "file": "game:blocktypes/aquatic/coral-branched.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 262145
+  },
+  { 
     "file": "game:blocktypes/aquatic/coral-fan.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
@@ -55,6 +61,12 @@
   },
   {
     "file": "game:blocktypes/aquatic/coral-tube.json", 
+    "op": "addmerge", 
+    "path": "/storageFlags", 
+    "value": 262145
+  },
+  { 
+    "file": "game:blocktypes/aquatic/flotsam.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 262145
@@ -85,12 +97,6 @@
   },
   {
     "file": "game:blocktypes/plants/aquatic/waterlily-flower.json", 
-    "op": "addmerge", 
-    "path": "/storageFlags", 
-    "value": 262145
-  },
-  {
-    "file": "game:blocktypes/wood/bucket.json", 
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 262145
