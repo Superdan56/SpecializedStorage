@@ -144,7 +144,7 @@
     "value": 16385
   },
   { 
-    "file": "game:blocktypes/mechanics/pulverizefram.json",     
+    "file": "game:blocktypes/mechanics/pulverizeframe.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
@@ -180,25 +180,25 @@
     "value": 16385
   },
   {
-    "file": "game:blocktypes/mechanics/chute-cross.json",     
+    "file": "game:blocktypes/metal/chute-cross.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
   },
   {
-    "file": "game:blocktypes/mechanics/chute-straight.json",     
+    "file": "game:blocktypes/metal/chute-straight.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
   },
   {
-    "file": "game:blocktypes/mechanics/chute-t.json",     
+    "file": "game:blocktypes/metal/chute-t.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
   },
   {
-    "file": "game:blocktypes/mechanics/hopper.json",     
+    "file": "game:blocktypes/metal/hopper.json",     
     "op": "addmerge", 
     "path": "/storageFlags", 
     "value": 16385
