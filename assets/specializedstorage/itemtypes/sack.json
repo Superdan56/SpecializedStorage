@@ -50,7 +50,7 @@
             },
             "*-mining-*": {
                 "storageFlags": 4,
-                "slotBgColor": "#c2ffe8",
+                "slotBgColor": "#8c93a0",
                 "quantitySlotsByType": {
 					"*-basic": 12,
 					"*-sturdy": 16
@@ -65,7 +65,7 @@
 				}
             },
             "*-woodsman-*": {
-                "slotBgColor": "3f2407",
+                "slotBgColor": "#3f2407",
                 "storageFlags": 2048,
                 "quantitySlotsByType": {
 					"*-basic": 12,
