@@ -17,6 +17,7 @@
 				}
             },
             "*-cook-*": {
+                "slotBgColor": "#c05872",
                 "storageFlags": 32768,
                 "quantitySlotsByType": {
                     "*-basic": 12,
@@ -24,6 +25,7 @@
                 }
             },
             "*-engineer-*": {
+                "slotBgColor": "#f6d78e",
                 "storageFlags": 16384,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -55,7 +57,7 @@
 				}
             },
             "*-pottery-*": {
-                "slotBgColor": "#b54220",
+                "slotBgColor": "#331e1e",
                 "storageFlags": 65536,
                 "quantitySlotsByType": {
 					"*-basic": 12,
@@ -63,6 +65,7 @@
 				}
             },
             "*-woodsman-*": {
+                "slotBgColor": "3f2407",
                 "storageFlags": 2048,
                 "quantitySlotsByType": {
 					"*-basic": 12,

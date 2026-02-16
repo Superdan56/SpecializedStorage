@@ -36,7 +36,7 @@
                 "storageFlags": 131072
             },
             "*-pottery": {
-                "slotBgColor": "#b54220",
+                "slotBgColor": "#331e1e",
                 "quantitySlots": 6,
                 "storageFlags": 65536
             }
