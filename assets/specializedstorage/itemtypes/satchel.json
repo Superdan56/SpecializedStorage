@@ -36,7 +36,8 @@
     },
     "textures": {
         "straps": {"base": "game:item/resource/rope"},
-		"leather": {"base": "satchel/satchel-{type}-wood"} 
+		"bark": {"base": "satchel/satchel-{type}-bark"},
+        "wood": {"base": "satchel/satchel-{type}-wood"} 
     },
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
