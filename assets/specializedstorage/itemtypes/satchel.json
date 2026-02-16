@@ -34,7 +34,7 @@
     },
     "textures": {
         "straps": {"base": "game:item/resource/rope"},
-		"leather": {"base": "game:item/tool/shield/wood"} 
+		"leather": {"base": "game:item/block/wood/bark/oak"} 
     },
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
