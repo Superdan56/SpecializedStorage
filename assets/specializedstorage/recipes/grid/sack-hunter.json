@@ -21,6 +21,7 @@
                 "quantity": 1
             },
             "L": {
+                "name": "linen",
                 "type": "block",
                 "code": "game:linen-*",
                 "quantity": 1
@@ -81,13 +82,15 @@
         "ingredientPattern": "H_S,PBP,LLL",
         "ingredients": {
             "H": {
+                "name": "pelted",
                 "type": "item", 
-				"code": "game:hide-pelt-huge", 
+				"code": "game:hide-species-pelt-bear-*", 
 				"quantity": 1
             },
             "S": {
+                "name": "salted",
                 "type": "item",
-                "code": "game:hide-salted-huge",
+                "code": "game:hide-species-salted-bear-*",
                 "quantity": 1
             },
             "B": {
