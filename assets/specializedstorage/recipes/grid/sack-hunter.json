@@ -84,13 +84,56 @@
             "H": {
                 "name": "pelted",
                 "type": "item", 
-				"code": "game:hide-species-pelt-bear-*", 
+				"code": "game:hide-pelt-bear-*-complete", 
 				"quantity": 1
             },
             "S": {
                 "name": "salted",
                 "type": "item",
-                "code": "game:hide-species-salted-bear-*",
+                "code": "game:hide-salted-bear-*-complete",
+                "quantity": 1
+            },
+            "B": {
+                "type": "item",
+                "code": "sack-hunter-basic",
+                "quantity": 1
+            },
+            "P": {
+                "name": "plate",
+				"type": "item", 
+				"code": "game:metalplate-*", 
+				"allowedVariants": ["iron", "meteoriciron", "steel"],
+                "quantity": 1
+			},
+            "L": {
+                "name": "leather",
+                "type": "item",
+                "code": "game:leather-sturdy-*",
+                "quantity": 3
+            }
+        },
+        "output": {
+            "type": "item",
+            "code": "sack-hunter-sturdy",
+            "quantity": 1
+        }
+    },
+    {
+        "name": "sack-hunter-sturdy",
+        "width": 3,
+        "height": 3,
+        "ingredientPattern": "H_S,PBP,LLL",
+        "ingredients": {
+            "H": {
+                "name": "pelted",
+                "type": "item", 
+				"code": "game:hide-pelt-bear-*-body", 
+				"quantity": 1
+            },
+            "S": {
+                "name": "salted",
+                "type": "item",
+                "code": "game:hide-salted-bear-*-body",
                 "quantity": 1
             },
             "B": {
