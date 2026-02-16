@@ -9,11 +9,13 @@
         "backpackByType": {
             "*-firewood": {
                 "quantitySlots": 6,
-                "storageFlags": 524288
+                "storageFlags": 524288,
+                "slotBgColor": "#211915"
             },
             "*-woodsman": {
                 "quantitySlots": 6,
-                "storageFlags": 2048
+                "storageFlags": 2048,
+                "slotBgColor": "#3f2407"
             }
         }    
     },
@@ -34,7 +36,7 @@
     },
     "textures": {
         "straps": {"base": "game:item/resource/rope"},
-		"leather": {"base": "satchel-{type}-wood"} 
+		"leather": {"base": "satchel/satchel-{type}-wood"} 
     },
     "guiTransform": {
 		"translation": { "x": 0, "y": 0, "z": 0 },
