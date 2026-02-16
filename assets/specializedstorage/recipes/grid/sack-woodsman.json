@@ -46,7 +46,7 @@
         "name": "sack-woodsman-basic",
         "width": 3,
         "height": 2,
-        "ingredientPattern": "WTS,PLP",
+        "ingredientPattern": "W_S,PLP",
         "ingredients": {
             "W": {
                 "name": "wood",
